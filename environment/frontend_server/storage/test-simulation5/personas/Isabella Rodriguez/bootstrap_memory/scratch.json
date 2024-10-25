@@ -1,0 +1,323 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:53:10",
+  "curr_tile": [
+    76,
+    23
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 43,
+  "importance_ele_n": 46,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am and begin preparations for the Valentine's Day party",
+    "spend the day decorating and promoting the party to customers",
+    "have lunch at noon",
+    "continue preparations for the party",
+    "close the cafe at 8:00 pm",
+    "go home and have dinner at 9:00 pm",
+    "spend some time finalizing party details and promoting it on social media"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (unlocking the doors to Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (turning on the lights and music in the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (checking the inventory and restocking any items that are low)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (setting up the counter and cash register)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (checking the reservations for the Valentine's Day party and making any necessary adjustments)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (preparing the ingredients for the special Valentine's Day menu items)",
+      20
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (checking the decorations and making sure everything is in place)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (setting up the tables and chairs for the party)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (taking a break)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (putting out the party invitations and reminding customers to join the party)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party (making final preparations for the party, such as lighting candles and setting up a photo booth)",
+      10
+    ],
+    [
+      "decorating the cafe for the party (setting up tables and chairs for the party)",
+      10
+    ],
+    [
+      "decorating the cafe for the party (hanging up Valentine's Day decorations)",
+      15
+    ],
+    [
+      "decorating the cafe for the party (arranging flowers on the tables)",
+      10
+    ],
+    [
+      "decorating the cafe for the party (setting up a photo booth area)",
+      10
+    ],
+    [
+      "decorating the cafe for the party (placing candles around the cafe)",
+      5
+    ],
+    [
+      "decorating the cafe for the party (putting out plates, cups, and utensils)",
+      5
+    ],
+    [
+      "decorating the cafe for the party (checking the sound system for music)",
+      5
+    ],
+    [
+      "finalizing party details and promoting it on social media (checking the party decorations)",
+      5
+    ],
+    [
+      "finalizing party details and promoting it on social media (making a list of party supplies needed)",
+      10
+    ],
+    [
+      "finalizing party details and promoting it on social media (contacting her suppliers to order the party supplies)",
+      15
+    ],
+    [
+      "finalizing party details and promoting it on social media (creating a social media post for the party)",
+      10
+    ],
+    [
+      "finalizing party details and promoting it on social media (taking a break)",
+      10
+    ],
+    [
+      "finalizing party details and promoting it on social media (finalizing the party menu)",
+      10
+    ],
+    [
+      "taking a break for lunch",
+      120
+    ],
+    [
+      "finalizing party details and promoting it on social media",
+      240
+    ],
+    [
+      "closing the cafe and heading home for dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "finalizing party details and promoting it on social media",
+      60
+    ],
+    [
+      "spending time finalizing party details and promoting it on social media",
+      120
+    ],
+    [
+      "going to bed at 11:00 pm to get a good night's sleep before the big party tomorrow",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and beginning preparations for the Valentine's Day party",
+      120
+    ],
+    [
+      "decorating the cafe for the party",
+      60
+    ],
+    [
+      "finalizing party details and promoting it on social media",
+      60
+    ],
+    [
+      "taking a break for lunch",
+      120
+    ],
+    [
+      "finalizing party details and promoting it on social media",
+      240
+    ],
+    [
+      "closing the cafe and heading home for dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "finalizing party details and promoting it on social media",
+      60
+    ],
+    [
+      "spending time finalizing party details and promoting it on social media",
+      120
+    ],
+    [
+      "going to bed at 11:00 pm to get a good night's sleep before the big party tomorrow",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:50:00",
+  "act_duration": 5,
+  "act_description": "decorating the cafe for the party (putting out plates, cups, and utensils)",
+  "act_pronunciatio": "\ud83c\udf7d\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "Isabella Rodriguez",
+    "is"
+  ],
+  "act_obj_description": "being arranged and set up",
+  "act_obj_pronunciatio": "\ud83d\udd27",
+  "act_obj_event": [
+    "cafe customer seating",
+    "arrange and set up",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

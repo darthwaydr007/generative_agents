@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, discussing Valentine's Day party planning, trying new menu items at Hobbs Cafe, and saving a special seat for Maria at the party tomorrow. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How's studying going at the library? Did you take a break to grab some dinner?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I had to take a break for dinner. How's the Valentine's Day party planning going? It sounds exciting!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The Valentine's Day party planning is coming along great! I can't wait to see everyone enjoying themselves tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing! I'm looking forward to it. I'll make sure to stop by and check it out. By the way, have you tried the new menu items at Hobbs Cafe yet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have tried the new menu items at Hobbs Cafe. They are delicious! You should definitely give them a try when you stop by for the party tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Great to hear that the new menu items are delicious! I'll definitely give them a try tomorrow at the party. Thanks for the recommendation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'll make sure to save you a special seat at the party tomorrow. It'll be great to have you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good! Thanks for saving me a special seat. I'm excited for the party tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you tomorrow at the party then! Have a great rest of your evening, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you tomorrow at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to seeing you at the party tomorrow! Have a wonderful evening, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks again, Isabella! Have a great evening too!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have some extra dessert options at the party for you to enjoy!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm really looking forward to trying the new menu items at Hobbs Cafe tomorrow. It sounds like they're a hit!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited to try the new menu items! If you need any recommendations, feel free to ask me tomorrow at the party."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you tomorrow at the party."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, discussing Valentine's Day party planning, trying new menu items at Hobbs Cafe, and saving a special seat for Maria at the party tomorrow. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How's studying going at the library? Did you take a break to grab some dinner?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I had to take a break for dinner. How's the Valentine's Day party planning going? It sounds exciting!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The Valentine's Day party planning is coming along great! I can't wait to see everyone enjoying themselves tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing! I'm looking forward to it. I'll make sure to stop by and check it out. By the way, have you tried the new menu items at Hobbs Cafe yet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have tried the new menu items at Hobbs Cafe. They are delicious! You should definitely give them a try when you stop by for the party tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Great to hear that the new menu items are delicious! I'll definitely give them a try tomorrow at the party. Thanks for the recommendation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'll make sure to save you a special seat at the party tomorrow. It'll be great to have you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good! Thanks for saving me a special seat. I'm excited for the party tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you tomorrow at the party then! Have a great rest of your evening, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you tomorrow at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to seeing you at the party tomorrow! Have a wonderful evening, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks again, Isabella! Have a great evening too!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have some extra dessert options at the party for you to enjoy!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm really looking forward to trying the new menu items at Hobbs Cafe tomorrow. It sounds like they're a hit!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited to try the new menu items! If you need any recommendations, feel free to ask me tomorrow at the party."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you tomorrow at the party."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finishing up his research paper and preparing for his sociology class (reviewing the class syllabus) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:41:10"
+  }
+}

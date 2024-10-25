@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about ordering dinner and discussing the upcoming Valentine's Day party at Hobbs Cafe @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus! Have you decided what you'd like to order for dinner tonight?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella! I'm thinking of getting the chicken Alfredo pasta tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great choice! Would you like any appetizers or drinks to go with that?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think I'll just stick with the chicken Alfredo pasta for tonight, thanks."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect choice, Klaus! I'll get that started for you right away. Enjoy your meal!"
+        ],
+        [
+          "Klaus Mueller",
+          "Actually, Isabella, while I'm here, I wanted to ask you about the Valentine's Day party. Can you tell me more about it?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, Klaus! The Valentine's Day party is happening tomorrow at Hobbs Cafe from 5 pm to 7 pm. We'll have special decorations, music, and a fun atmosphere. I'll be saving a special seat just for you, so make sure to stop by!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella! I'll definitely make sure to stop by and join in the Valentine's Day celebrations. Thank you for the invitation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I look forward to seeing you there tomorrow, Klaus! It'll be a great time."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll definitely be there to celebrate with you all."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save that special seat for you, Klaus. See you tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll look forward to the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else I can assist you with tonight, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I'm all set for tonight, thank you. Enjoy the rest of your evening, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear, Klaus! Enjoy your meal and have a wonderful evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate your help. Have a great evening!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "studying at the library (taking a break to eat dinner) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about ordering dinner and discussing the upcoming Valentine's Day party at Hobbs Cafe @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus! Have you decided what you'd like to order for dinner tonight?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella! I'm thinking of getting the chicken Alfredo pasta tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great choice! Would you like any appetizers or drinks to go with that?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think I'll just stick with the chicken Alfredo pasta for tonight, thanks."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect choice, Klaus! I'll get that started for you right away. Enjoy your meal!"
+        ],
+        [
+          "Klaus Mueller",
+          "Actually, Isabella, while I'm here, I wanted to ask you about the Valentine's Day party. Can you tell me more about it?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, Klaus! The Valentine's Day party is happening tomorrow at Hobbs Cafe from 5 pm to 7 pm. We'll have special decorations, music, and a fun atmosphere. I'll be saving a special seat just for you, so make sure to stop by!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella! I'll definitely make sure to stop by and join in the Valentine's Day celebrations. Thank you for the invitation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I look forward to seeing you there tomorrow, Klaus! It'll be a great time."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll definitely be there to celebrate with you all."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save that special seat for you, Klaus. See you tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll look forward to the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else I can assist you with tonight, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I'm all set for tonight, thank you. Enjoy the rest of your evening, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear, Klaus! Enjoy your meal and have a wonderful evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate your help. Have a great evening!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:16:30"
+  }
+}
