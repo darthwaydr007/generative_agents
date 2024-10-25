@@ -120,6 +120,7 @@ class ReverieServer:
 
     # Loading in all personas. 
     init_env_file = f"{sim_folder}/environment/{str(self.step)}.json"
+    print(f"Full directory path: {init_env_file}")
     init_env = json.load(open(init_env_file))
     for persona_name in reverie_meta['persona_names']: 
       persona_folder = f"{sim_folder}/personas/{persona_name}"
@@ -398,8 +399,11 @@ class ReverieServer:
           #  "persona": {"Klaus Mueller": {"movement": [38, 12]}}, 
           #  "meta": {curr_time: <datetime>}}
           curr_move_path = f"{sim_folder}/movement"
+          # If the folder doesn't exist, we create it.
           if not os.path.exists(curr_move_path):
             os.makedirs(curr_move_path)
+
+          
           curr_move_file = f"{sim_folder}/movement/{self.step}.json"
           with open(curr_move_file, "w") as outfile: 
             outfile.write(json.dumps(movements, indent=2))
