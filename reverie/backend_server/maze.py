@@ -22,6 +22,7 @@ class Maze:
     # Reading in the meta information about the world. If you want tp see the
     # example variables, check out the maze_meta_info.json file. 
     meta_info = json.load(open(f"{env_matrix}/maze_meta_info.json"))
+    print("Meta Info:", meta_info)  # デバッグ用
     # <maze_width> and <maze_height> denote the number of tiles make up the 
     # height and width of the map. 
     self.maze_width = int(meta_info["maze_width"])
@@ -49,25 +50,30 @@ class Maze:
 
     _wb = blocks_folder + "/world_blocks.csv"
     wb_rows = read_file_to_list(_wb, header=False)
+    print("World Blocks:", wb_rows)  # デバッグ用
     wb = wb_rows[0][-1]
    
     _sb = blocks_folder + "/sector_blocks.csv"
     sb_rows = read_file_to_list(_sb, header=False)
+    print("Sector Blocks:", sb_rows)  # デバッグ用
     sb_dict = dict()
     for i in sb_rows: sb_dict[i[0]] = i[-1]
     
     _ab = blocks_folder + "/arena_blocks.csv"
     ab_rows = read_file_to_list(_ab, header=False)
+    print("Arena Blocks:", ab_rows)  # デバッグ用
     ab_dict = dict()
     for i in ab_rows: ab_dict[i[0]] = i[-1]
     
     _gob = blocks_folder + "/game_object_blocks.csv"
     gob_rows = read_file_to_list(_gob, header=False)
+    print("Game Object Blocks:", gob_rows)  # デバッグ用
     gob_dict = dict()
     for i in gob_rows: gob_dict[i[0]] = i[-1]
     
     _slb = blocks_folder + "/spawning_location_blocks.csv"
     slb_rows = read_file_to_list(_slb, header=False)
+    print("Spawning Location Blocks:", slb_rows)  # デバッグ用
     slb_dict = dict()
     for i in slb_rows: slb_dict[i[0]] = i[-1]
 
@@ -155,6 +161,8 @@ class Maze:
         
         row += [tile_details]
       self.tiles += [row]
+
+    print("Tiles Matrix:", self.tiles)  # デバッグ用
     # Each game object occupies an event in the tile. We are setting up the 
     # default event value here. 
     for i in range(self.maze_height):
@@ -203,6 +211,26 @@ class Maze:
             self.address_tiles[add].add((j, i))
           else: 
             self.address_tiles[add] = set([(j, i)])
+
+    #debug codes
+    print("Sector Dictionary:", sb_dict)
+    print("Arena Dictionary:", ab_dict)
+    print("Game Object Dictionary:", gob_dict)
+    print("Spawning Location Dictionary:", slb_dict)
+    # for i in range(self.maze_height):
+    #   for j in range(self.maze_width):
+    #     tile = self.tiles[i][j]
+    #     print(f"Tile ({i}, {j}):")
+    #     print(f"  Sector: {tile['sector']}")
+    #     print(f"  Arena: {tile['arena']}")
+    #     print(f"  Game Object: {tile['game_object']}")
+    #     print(f"  Spawning Location: {tile['spawning_location']}")
+    print("Sector Maze:", sector_maze)
+    print("Arena Maze:", arena_maze)
+    print("Game Object Maze:", game_object_maze)
+    print("Spawning Location Maze:", spawning_location_maze)
+
+    print("Address Tiles:", self.address_tiles)  # デバッグ用
 
 
   def turn_coordinate_to_tile(self, px_coordinate): 
