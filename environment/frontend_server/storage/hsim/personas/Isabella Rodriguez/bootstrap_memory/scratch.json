@@ -1,0 +1,343 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:45:00",
+  "curr_tile": [
+    3,
+    3
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. Isabella likes to use the furnace.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 23,
+  "importance_ele_n": 63,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter until 8:00 pm",
+    "have dinner with her family at 8:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready to open Hobbs Cafe (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "getting ready to open Hobbs Cafe (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready to open Hobbs Cafe (getting dressed in her cafe uniform)",
+      5
+    ],
+    [
+      "getting ready to open Hobbs Cafe (checking her phone for any important messages or notifications)",
+      5
+    ],
+    [
+      "getting ready to open Hobbs Cafe (making her bed)",
+      5
+    ],
+    [
+      "getting ready to open Hobbs Cafe (preparing breakfast for herself)",
+      15
+    ],
+    [
+      "getting ready to open Hobbs Cafe (eating breakfast)",
+      10
+    ],
+    [
+      "getting ready to open Hobbs Cafe (checking the weather forecast for the day)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (turning on the lights and unlocking the doors)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (turning on the coffee machines and preparing the coffee beans)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (setting up the pastry display and arranging the pastries)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (checking the reservation list for the day and preparing tables accordingly)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (checking the schedule for the day and assigning tasks to her employees)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (putting out fresh flowers on each table)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers (turning on the music and adjusting the volume)",
+      5
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers (taking orders from customers)",
+      15
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers (making drinks and food orders for customers)",
+      20
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers (chatting with customers while they wait for their orders)",
+      10
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers (cleaning and restocking the counter area)",
+      10
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break and having lunch with her family",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break and having a cup of coffee",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "starting to set up for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "finishing setting up for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and heading home for dinner with her family",
+      60
+    ],
+    [
+      "having dinner with her family",
+      120
+    ],
+    [
+      "getting ready for bed and winding down for the night",
+      60
+    ],
+    [
+      "finishing up her nightly routine and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for the busy day ahead",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready to open Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's customers",
+      60
+    ],
+    [
+      "working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break and having lunch with her family",
+      60
+    ],
+    [
+      "back at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and chatting with customers",
+      60
+    ],
+    [
+      "taking a break and having a cup of coffee",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "starting to set up for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "finishing setting up for the Valentine's Day party at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and heading home for dinner with her family",
+      60
+    ],
+    [
+      "having dinner with her family",
+      120
+    ],
+    [
+      "getting ready for bed and winding down for the night",
+      60
+    ],
+    [
+      "finishing up her nightly routine and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for the busy day ahead",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:refrigerator",
+  "act_start_time": "February 13, 2023, 08:40:00",
+  "act_duration": 10,
+  "act_description": "opening Hobbs Cafe and preparing for the day's customers (checking the schedule for the day and assigning tasks to her employees)",
+  "act_pronunciatio": "\ud83d\uddd3\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "check",
+    "schedule"
+  ],
+  "act_obj_description": "being used to store ingredients for the day's menu",
+  "act_obj_pronunciatio": "\ud83e\udd55",
+  "act_obj_event": [
+    "refrigerator",
+    "use",
+    "store ingredients"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

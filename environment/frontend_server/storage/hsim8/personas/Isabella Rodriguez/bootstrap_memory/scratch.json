@@ -1,0 +1,375 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:19:50",
+  "curr_tile": [
+    3,
+    3
+  ],
+  "daily_plan_req": "Isabella Rodriguez likes to cook a meal in the morning.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a stay at home person who likes to cooking and relax and enjoy themselves.",
+  "currently": "Looking to use the furnance",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. Isabella likes to use the furnace.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 2,
+  "importance_ele_n": 71,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "start cooking breakfast on the stovetop at 6:30 am",
+    "eat breakfast and clean up by 7:15 am",
+    "use the furnace to stay warm throughout the day",
+    "spend the morning doing indoor activities such as reading or crafting",
+    "prepare and cook lunch at 12:30 pm",
+    "take a short nap or relax until 2:00 pm",
+    "run errands or attend appointments from 2:00-4:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking breakfast on the stovetop (gathering ingredients for breakfast)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (preheating the stovetop)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (chopping vegetables for an omelette)",
+      10
+    ],
+    [
+      "cooking breakfast on the stovetop (cracking eggs into a bowl)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (whisking the eggs)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (heating a pan on the stovetop)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (pouring the eggs into the pan)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (adding vegetables to the omelette)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (flipping the omelette)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (checking the omelette for doneness)",
+      5
+    ],
+    [
+      "cooking breakfast on the stovetop (plating the omelette and turning off the stovetop)",
+      5
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities (clearing the dishes from breakfast)",
+      10
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities (wiping down the countertops and stovetop)",
+      10
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities (sweeping the kitchen floor)",
+      10
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities (organizing the pantry and fridge)",
+      15
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities (taking out the trash)",
+      5
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities (starting laundry)",
+      10
+    ],
+    [
+      "preparing and cooking lunch (deciding on a recipe for lunch)",
+      5
+    ],
+    [
+      "preparing and cooking lunch (checking the pantry and fridge for necessary ingredients)",
+      10
+    ],
+    [
+      "preparing and cooking lunch (preheating the oven)",
+      5
+    ],
+    [
+      "preparing and cooking lunch (washing and chopping vegetables)",
+      15
+    ],
+    [
+      "preparing and cooking lunch (marinating the meat)",
+      10
+    ],
+    [
+      "preparing and cooking lunch (preparing the side dishes)",
+      10
+    ],
+    [
+      "preparing and cooking lunch (checking on the oven and adjusting the temperature if needed)",
+      5
+    ],
+    [
+      "reading a book (choosing a book to read)",
+      5
+    ],
+    [
+      "reading a book (making a cup of tea to enjoy while reading)",
+      10
+    ],
+    [
+      "reading a book (finding a comfortable spot to sit and read)",
+      5
+    ],
+    [
+      "reading a book (setting a timer for 30 minutes to read)",
+      5
+    ],
+    [
+      "reading a book (reading the book)",
+      35
+    ],
+    [
+      "preparing and cooking lunch",
+      60
+    ],
+    [
+      "taking a short nap or relaxing",
+      60
+    ],
+    [
+      "running errands or attending appointments",
+      180
+    ],
+    [
+      "cooking dinner on the stovetop",
+      120
+    ],
+    [
+      "eating dinner and cleaning up the kitchen",
+      60
+    ],
+    [
+      "watching TV or a movie",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "in bed, reading a book or using her phone before falling asleep at 10:30 pm",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking breakfast on the stovetop",
+      60
+    ],
+    [
+      "cleaning up the kitchen and starting indoor activities",
+      60
+    ],
+    [
+      "preparing and cooking lunch",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "preparing and cooking lunch",
+      60
+    ],
+    [
+      "taking a short nap or relaxing",
+      60
+    ],
+    [
+      "running errands or attending appointments",
+      180
+    ],
+    [
+      "cooking dinner on the stovetop",
+      120
+    ],
+    [
+      "eating dinner and cleaning up the kitchen",
+      60
+    ],
+    [
+      "watching TV or a movie",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "in bed, reading a book or using her phone before falling asleep at 10:30 pm",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:closet",
+  "act_start_time": "February 13, 2023, 09:15:00",
+  "act_duration": 5,
+  "act_description": "preparing and cooking lunch (preheating the oven)",
+  "act_pronunciatio": "\ud83d\udd25",
+  "act_event": [
+    "Isabella Rodriguez",
+    "preheat",
+    "oven"
+  ],
+  "act_obj_description": "closed and organized",
+  "act_obj_pronunciatio": "\ud83d\udcda",
+  "act_obj_event": [
+    "closet",
+    "is",
+    "closed and organized"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
