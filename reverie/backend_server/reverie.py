@@ -88,6 +88,7 @@ class ReverieServer:
         # (e.g., "double_studio") to instantiate Maze.
         # e.g., Maze("double_studio")
         self.maze = Maze(reverie_meta['maze_name'])
+        print(self.maze)
 
         # <step> denotes the number of steps that our game has taken. A step here
         # literally translates to the number of moves our personas made in terms

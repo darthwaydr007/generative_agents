@@ -1,0 +1,24 @@
+{
+  "the Ville": {
+    "Hobbs Cafe": {
+      "cafe": [
+        "refrigerator",
+        "cafe customer seating",
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter",
+        "piano"
+      ]
+    },
+    "Isabella Rodriguez's apartment": {
+      "main room": [
+        "bed",
+        "desk",
+        "refrigerator",
+        "closet",
+        "shelf",
+        "furnace"
+      ]
+    }
+  }
+}
