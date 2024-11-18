@@ -45,12 +45,6 @@ for node_id, node in data.items():
         print(f"Missing key in node {node_id}: {e}")
         continue
 
-# Sort rows by timestamp
-# try:
-#     rows.sort(key=lambda x: datetime.strptime(x["timestamp"], "%Y-%m-%d %H:%M:%S"))
-# except Exception as e:
-#     print(f"Error while parsing timestamps: {e}")
-#     exit()
 
 # Prepare CSV header
 header = ["timestamp"] + sorted(devices)
