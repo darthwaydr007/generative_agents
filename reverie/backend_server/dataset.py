@@ -2,10 +2,10 @@ import json
 import csv
 from datetime import datetime
 import os
-from global_methods import *  # Assuming these provide utility methods
-from utils import *           # Assuming utility functions for file handling
-from maze import *            # Maze-related functionalities
-from persona.persona import * # Persona-specific functionality
+from global_methods import *  
+from utils import *           
+from maze import *            
+from persona.persona import * 
 
 # Get folder name from user
 folder = input("Enter the folder name: ").strip()
