@@ -1,0 +1,31 @@
+timestamp,bathroom sink,furnace,kitchen sink,piano,refrigerator,shower,toilet
+2023-02-13 08:36:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:35:20,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:35:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:25:40,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:25:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:25:20,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:25:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:20:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:20:20,idle,up,idle,idle,idle,idle,idle
+2023-02-13 08:20:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:10:50,idle,idle,idle,idle,restock,idle,idle
+2023-02-13 08:10:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:10:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:06:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:05:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:03:00,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:02:40,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 08:01:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:55:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:50:20,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:50:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:40:10,idle,idle,tidy and clean,idle,idle,idle,idle
+2023-02-13 07:26:50,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:26:40,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:26:00,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:15:30,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:07:10,idle,idle,idle,idle,idle,being,idle
+2023-02-13 07:06:50,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:00:10,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 06:00:00,idle,idle,idle,idle,idle,idle,idle

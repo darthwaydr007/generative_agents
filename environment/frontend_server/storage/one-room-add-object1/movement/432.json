@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        10,
+        2
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for work and preparing for the day at Hobbs Cafe (taking a shower) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:12:00"
+  }
+}
