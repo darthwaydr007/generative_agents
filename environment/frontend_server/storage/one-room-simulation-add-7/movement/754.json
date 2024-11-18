@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        7,
+        9
+      ],
+      "pronunciatio": "\ud83c\udf21\ufe0f",
+      "description": "checking the functionality of the cafe equipment (checking the temperature of the refrigerator) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:40"
+  }
+}

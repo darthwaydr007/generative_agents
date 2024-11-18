@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        3,
+        7
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "reviewing inventory and making a list of supplies needed for the Valentine's Day party at Hobbs Cafe (checking the current inventory levels of food and drinks) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:02:10"
+  }
+}

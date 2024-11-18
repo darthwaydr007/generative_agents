@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        6,
+        7
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "getting ready for work (eating breakfast) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:54:40"
+  }
+}

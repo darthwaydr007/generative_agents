@@ -1,0 +1,598 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 15:43:10",
+  "curr_tile": [
+    3,
+    11
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe. Before open the Cafe, she switch on the furnace in the Cafe. She sometimes watch TV in the Cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 96,
+  "importance_ele_n": 31,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am and work at the counter until 8:00 pm",
+    "switch on the furnace at the cafe before opening",
+    "take a break for lunch at 12:00 pm",
+    "continue working at the cafe until 5:00 pm",
+    "gather party materials for the Valentine's Day party at Hobbs Cafe that will take place tomorrow at 5:00 pm",
+    "prepare for the cafe closing at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work and making breakfast (taking a shower)",
+      10
+    ],
+    [
+      "getting ready for work and making breakfast (getting dressed)",
+      5
+    ],
+    [
+      "getting ready for work and making breakfast (making her bed)",
+      5
+    ],
+    [
+      "getting ready for work and making breakfast (preparing breakfast)",
+      15
+    ],
+    [
+      "getting ready for work and making breakfast (eating breakfast)",
+      10
+    ],
+    [
+      "getting ready for work and making breakfast (washing the dishes)",
+      10
+    ],
+    [
+      "getting ready for work and making breakfast (checking her phone for any messages or notifications)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (unlocking the doors to Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (turning on the lights and music in the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (turning on the furnace to warm up the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (setting up the counter and display cases with pastries and drinks)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (checking the reservation list for the Valentine's Day party and making sure everything is in order)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter (preparing the coffee machine and making sure it is clean and ready for use)",
+      10
+    ],
+    [
+      "working at the counter and greeting customers (turning on the lights and music in the cafe)",
+      5
+    ],
+    [
+      "working at the counter and greeting customers (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "working at the counter and greeting customers (preparing the coffee machine and making sure it is clean and ready for use)",
+      10
+    ],
+    [
+      "working at the counter and greeting customers (setting up the pastry display and arranging the pastries in an appealing way)",
+      10
+    ],
+    [
+      "working at the counter and greeting customers (checking the reservation list for the Valentine's Day party and making sure all tables are reserved)",
+      5
+    ],
+    [
+      "working at the counter and greeting customers (greeting customers as they enter the cafe and making small talk with them)",
+      10
+    ],
+    [
+      "working at the counter and greeting customers (taking orders and preparing drinks for customers)",
+      10
+    ],
+    [
+      "working at the counter and taking a break for lunch (greeting customers and taking their orders)",
+      15
+    ],
+    [
+      "working at the counter and taking a break for lunch (preparing and serving drinks and food)",
+      20
+    ],
+    [
+      "working at the counter and taking a break for lunch (chatting with customers and making them feel welcome)",
+      15
+    ],
+    [
+      "working at the counter and taking a break for lunch (taking a break and eating her lunch)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (checking inventory and making a list of items needed for the party)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (placing an order for any needed items)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (setting up decorations for the party)",
+      15
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (preparing the special Valentine's Day menu)",
+      20
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (taking a break)",
+      5
+    ],
+    [
+      "taking a break for lunch (turning off the furnace in the cafe)",
+      5
+    ],
+    [
+      "taking a break for lunch (washing her hands)",
+      5
+    ],
+    [
+      "taking a break for lunch (heating up her lunch in the microwave)",
+      5
+    ],
+    [
+      "taking a break for lunch (setting up her lunch on a plate)",
+      5
+    ],
+    [
+      "taking a break for lunch (sitting down to eat her lunch)",
+      20
+    ],
+    [
+      "taking a break for lunch (checking her phone for any urgent messages)",
+      5
+    ],
+    [
+      "taking a break for lunch (taking a short walk around the cafe to stretch her legs)",
+      10
+    ],
+    [
+      "taking a break for lunch (washing her dishes and putting them away)",
+      5
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (checking inventory and making a list of items needed for the party)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (placing an order for any needed items)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (decorating the cafe for the party)",
+      20
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (preparing special menu items for the party)",
+      15
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (taking a break)",
+      5
+    ],
+    [
+      "working at the counter and greeting customers (checking inventory and restocking items)",
+      10
+    ],
+    [
+      "working at the counter and greeting customers (taking orders and serving customers)",
+      30
+    ],
+    [
+      "working at the counter and greeting customers (chatting with customers and making them feel welcome)",
+      15
+    ],
+    [
+      "working at the counter and greeting customers (checking the time and preparing for the Valentine's Day party)",
+      5
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (checking inventory and making a list of items needed for the party)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (placing an order for any needed items)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (setting up decorations for the party)",
+      30
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (preparing special Valentine's Day themed drinks and treats)",
+      30
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (taking a break)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (checking the reservation list for the party)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (making final preparations for the party)",
+      20
+    ],
+    [
+      "gathering party materials for the Valentine's Day party",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "watching TV at the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "spending time with her family and relaxing before bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for the busy day tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work and making breakfast",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and working at the counter",
+      60
+    ],
+    [
+      "working at the counter and greeting customers",
+      60
+    ],
+    [
+      "working at the counter and taking a break for lunch",
+      60
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "taking a break for lunch",
+      60
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "working at the counter and greeting customers",
+      60
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party",
+      120
+    ],
+    [
+      "gathering party materials for the Valentine's Day party",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "watching TV at the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "spending time with her family and relaxing before bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm to get enough rest for the busy day tomorrow",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 15:20:00",
+  "act_duration": 30,
+  "act_description": "working at the counter and preparing for the Valentine's Day party (setting up decorations for the party)",
+  "act_pronunciatio": "\ud83c\udf89",
+  "act_event": [
+    "Isabella Rodriguez",
+    "set up",
+    "decorations"
+  ],
+  "act_obj_description": "available for use but currently empty",
+  "act_obj_pronunciatio": "\ud83c\udd93",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be",
+    "available for use"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

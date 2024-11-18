@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        2,
+        4
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "placing orders for necessary supplies (making a list of supplies that need to be ordered) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:22:30"
+  }
+}

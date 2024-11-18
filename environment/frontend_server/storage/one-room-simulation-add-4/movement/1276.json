@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        7,
+        9
+      ],
+      "pronunciatio": "\ud83e\udd50",
+      "description": "working at the counter and greeting customers (setting up the pastry display and arranging the pastries in an appealing way) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:32:40"
+  }
+}

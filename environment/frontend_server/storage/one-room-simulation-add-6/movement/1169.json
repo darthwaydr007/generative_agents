@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        2,
+        7
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "purchasing party materials for the Valentine's Day party (checking inventory to see what materials are already available) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:14:50"
+  }
+}
