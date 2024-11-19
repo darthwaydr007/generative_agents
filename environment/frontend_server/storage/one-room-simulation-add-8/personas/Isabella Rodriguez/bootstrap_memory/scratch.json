@@ -1,0 +1,439 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 12:39:50",
+  "curr_tile": [
+    12,
+    9
+  ],
+  "daily_plan_req": "Isabella Rodriguez goes to Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.Before open the Cafe, she switch on the furnace in the Cafe. She switch on tv in the Cafe before opening the Cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is enjoying a cup of coffee in Hobbs Cafe with her customers. And she sometimes watch tv in the Cafe during her break time.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She sometimes watches TV in the Cafe.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 130,
+  "importance_ele_n": 11,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "arrive at Hobbs Cafe at 8:00 am",
+    "switch on the furnace and TV in the Cafe",
+    "work at the counter until 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work and having breakfast (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "getting ready for work and having breakfast (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for work and having breakfast (getting dressed in her cafe uniform)",
+      10
+    ],
+    [
+      "getting ready for work and having breakfast (making breakfast)",
+      15
+    ],
+    [
+      "getting ready for work and having breakfast (eating breakfast)",
+      10
+    ],
+    [
+      "getting ready for work and having breakfast (washing the dishes)",
+      5
+    ],
+    [
+      "getting ready for work and having breakfast (checking her phone for any important messages)",
+      5
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (turning on the furnace in the cafe)",
+      5
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (turning on the TV in the cafe)",
+      5
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (setting up the counter, making sure everything is clean and organized)",
+      10
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (preparing the coffee machine and other equipment for the day)",
+      10
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (greeting customers as they come in and making small talk)",
+      10
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders (taking orders and writing them down accurately)",
+      10
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking orders from customers)",
+      15
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (preparing and serving drinks)",
+      20
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking payments from customers)",
+      10
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (clearing and cleaning tables)",
+      15
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (restocking supplies)",
+      10
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (chatting with customers and making them feel welcome)",
+      20
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking a short break to drink some water)",
+      5
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (checking inventory and making a list of items to restock)",
+      10
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (preparing for the next rush of customers by restocking supplies and cleaning the counter)",
+      10
+    ],
+    [
+      "taking a break and enjoying a cup of coffee with her customers at Hobbs Cafe (greeting and chatting with customers)",
+      15
+    ],
+    [
+      "taking a break and enjoying a cup of coffee with her customers at Hobbs Cafe (taking orders and serving coffee)",
+      20
+    ],
+    [
+      "taking a break and enjoying a cup of coffee with her customers at Hobbs Cafe (checking on the cafe's inventory and restocking if needed)",
+      10
+    ],
+    [
+      "taking a break and enjoying a cup of coffee with her customers at Hobbs Cafe (checking and responding to any emails or messages from suppliers or customers)",
+      10
+    ],
+    [
+      "taking a break and enjoying a cup of coffee with her customers at Hobbs Cafe (taking a short break to enjoy her own cup of coffee)",
+      5
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (greeting customers as they enter the cafe)",
+      5
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking orders from customers)",
+      30
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (preparing and serving drinks)",
+      30
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking payments from customers)",
+      15
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (cleaning and restocking the counter)",
+      20
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (chatting with customers and making them feel welcome)",
+      30
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking orders for food items)",
+      30
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (preparing and serving food)",
+      30
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (taking payments for food orders)",
+      15
+    ],
+    [
+      "still working at the counter, taking orders and serving customers (cleaning and restocking the counter)",
+      35
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and serving customers",
+      120
+    ],
+    [
+      "closing the cafe and cleaning up before heading home",
+      120
+    ],
+    [
+      "having dinner and watching TV at home",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for work and having breakfast",
+      60
+    ],
+    [
+      "working at the counter in Hobbs Cafe, greeting customers and taking orders",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and serving customers",
+      120
+    ],
+    [
+      "taking a break and enjoying a cup of coffee with her customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and serving customers",
+      240
+    ],
+    [
+      "taking a break and having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "still working at the counter, taking orders and serving customers",
+      120
+    ],
+    [
+      "closing the cafe and cleaning up before heading home",
+      120
+    ],
+    [
+      "having dinner and watching TV at home",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:coffee machine",
+  "act_start_time": "February 13, 2023, 12:35:00",
+  "act_duration": 30,
+  "act_description": "still working at the counter, taking orders and serving customers (preparing and serving drinks)",
+  "act_pronunciatio": "\ud83e\udd64",
+  "act_event": [
+    "Isabella Rodriguez",
+    "prepare and serve",
+    "drinks"
+  ],
+  "act_obj_description": "being used and functioning properly",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "coffee machine",
+    "use",
+    "functioning properly"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
