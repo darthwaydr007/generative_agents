@@ -45,20 +45,44 @@ for node_id, node in data.items():
         print(f"Missing key in node {node_id}: {e}")
         continue
 
+# Sort rows by timestamp
+rows.sort(key=lambda x: (x["timestamp"]))
 
 # Prepare CSV header
 header = ["timestamp"] + sorted(devices)
 
-# Create the CSV rows with default status 'idle'
+# Create the CSV rows with default status 'off' and persistent state
 timestamps = {}
+device_states = {device: "idle" for device in devices}  # Initial state for all devices
+#prev_state = {device: "off" for device in devices}
 for row in rows:
-    if row["timestamp"] not in timestamps:
-        timestamps[row["timestamp"]] = {device: "idle" for device in devices}
-        timestamps[row["timestamp"]]["timestamp"] = row["timestamp"]
-    timestamps[row["timestamp"]][row["device"]] = row["status"]
+    timestamp = row["timestamp"]
+    device = row["device"]
+    status = row["status"]
+
+    # Update the device state
+    # if status != "idle":  # Update only if the status is not idle
+    #     device_states[device] = status
+    # elif device_states[device] != "off":  # Reset to off only if the current state is idle
+    #     device_states[device] = "off"
+    print(device_states["furnace"] , device, status)
+    print(device_states)
+    # if device_states[device] != "idle" or device_states[device] != "off":
+    #     device_states[device] = status
+
+    if timestamp not in timestamps:
+        timestamps[timestamp] = {"timestamp": timestamp}
+    for dev in devices:
+    #need to handle case for each device
+        if dev == device and status!= "idle":
+            timestamps[timestamp][dev] = status #device_states[dev]
+            device_states[dev] = status
+        else:
+            timestamps[timestamp][dev] = device_states[dev]
+    #prev_state[device] = status
 
 # Populate the final rows for the CSV
-csv_rows = list(timestamps.values())
+csv_rows = [timestamps[key] for key in sorted(timestamps)]
 
 # Define the output file name
 output_file = f"smart_home_status_{folder}.csv"
