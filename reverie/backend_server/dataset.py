@@ -12,7 +12,7 @@ folder = input("Enter the folder name: ").strip()
 
 # Construct the file path
 file_path = f"{fs_storage}/{folder}/personas/Isabella Rodriguez/bootstrap_memory/associative_memory/nodes.json"
-ALLOWED_DEVICES = {"bathroom sink", "furnace", "kitchen sink", "piano", "refrigerator", "shower", "toilet"}
+ALLOWED_DEVICES = {"bathroom sink", "furnace", "kitchen sink", "piano", "refrigerator", "shower", "toilet", "coffee machine", "tv"}
 
 # Check if the file exists
 if not os.path.exists(file_path):

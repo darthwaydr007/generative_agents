@@ -89,9 +89,12 @@ def execute(persona, maze, personas, plan):
       # string form. <maze.address_tiles> takes this and returns candidate 
       # coordinates. 
       if plan not in maze.address_tiles:
+        print("plan: ", plan)
+        print("maze.address_tiles: ", maze.address_tiles)
         maze.address_tiles["Johnson Park:park:park garden"] #ERRORRRRRRR
       else: 
         target_tiles = maze.address_tiles[plan]
+        #set location to home
 
     # There are sometimes more than one tile returned from this (e.g., a tabe
     # may stretch many coordinates). So, we sample a few here. And from that 

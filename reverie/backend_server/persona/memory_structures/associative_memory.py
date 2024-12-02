@@ -42,6 +42,8 @@ class ConceptNode:
     self.keywords = keywords
     self.filling = filling
 
+    self.devices = {}
+
 
   def spo_summary(self): 
     return (self.subject, self.predicate, self.object)

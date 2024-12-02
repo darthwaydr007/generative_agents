@@ -1,0 +1,184 @@
+timestamp,Isabella Rodriguez,bathroom sink,bed,behind the cafe counter,cafe customer seating,closet,coffee machine,cooking area,desk,furnace,kitchen sink,piano,refrigerator,shelf,shower,toilet,tv
+2023-02-13 06:00:00,Monday February 13,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 06:00:10,morning routine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 06:00:20,morning routine,idle,null,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:00:10,is,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:00:20,is,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:05:10,teeth and face,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:06:50,teeth and face,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:07:00,teeth and face,Isabella Rodriguez,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:15:10,cafe uniform,Isabella Rodriguez,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:15:20,cafe uniform,Isabella Rodriguez,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:15:30,cafe uniform,Isabella Rodriguez,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:16:10,cafe uniform,Isabella Rodriguez,empty,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:25:10,breakfast,Isabella Rodriguez,empty,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:25:20,breakfast,Isabella Rodriguez,empty,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,Isabella Rodriguez for breakfast ingredients,idle,idle,idle,idle
+2023-02-13 07:40:10,breakfast,Isabella Rodriguez,empty,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-13 07:40:20,breakfast,Isabella Rodriguez,empty,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-13 07:50:10,dishes,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-13 07:55:10,phone,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 07:55:20,phone,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:00:10,furnace,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:01:20,furnace,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:01:40,furnace,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:01:50,furnace,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:02:00,furnace,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,idle,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:02:10,furnace,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:05:10,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:05:20,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:05:30,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:06:00,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:06:10,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,idle
+2023-02-13 08:06:20,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:06:30,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:06:40,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:06:50,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:07:00,TV,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:10:10,counter,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:10:20,counter,Isabella Rodriguez,empty,idle,idle,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:10:30,counter,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:20:10,inventory and restock,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:20:20,inventory and restock,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,use,idle,idle,idle,display menu
+2023-02-13 08:21:10,inventory and restock,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:30:10,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:30:20,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:30:30,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:31:10,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:31:20,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:31:30,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:31:40,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,idle,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:32:00,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:32:10,coffee machine and other equipment,Isabella Rodriguez,empty,idle,clean and organized,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:40:10,customers,Isabella Rodriguez,empty,idle,clean and organized,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:40:20,customers,Isabella Rodriguez,empty,idle,clean and organized,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:40:30,customers,Isabella Rodriguez,empty,idle,customers chatting and enjoying their drinks,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:40:40,customers,Isabella Rodriguez,empty,idle,customers chatting and enjoying their drinks,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:40:50,customers,Isabella Rodriguez,empty,idle,customers chatting and enjoying their drinks,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:50:10,orders,Isabella Rodriguez,empty,idle,customers chatting and enjoying their drinks,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:50:20,orders,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:50:30,orders,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 08:50:40,orders,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:00:10,customers,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:00:20,customers,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:00:30,customers,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:00:40,customers,Isabella Rodriguez,empty,idle,various customers enjoying their drinks and meals,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:05:10,orders from customers,Isabella Rodriguez,empty,idle,various customers enjoying their drinks and meals,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:05:20,orders from customers,Isabella Rodriguez,empty,idle,various customers enjoying their drinks and meals,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:05:30,orders from customers,Isabella Rodriguez,empty,idle,various customers enjoying their drinks and meals,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:05:40,orders from customers,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:05:50,orders from customers,Isabella Rodriguez,empty,idle,being,clothes,prepare,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:20:10,drinks,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:20:20,drinks,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:40:10,payments,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:40:50,payments,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:41:00,payments,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:41:10,payments,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:41:20,payments,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:42:00,payments,Isabella Rodriguez,empty,idle,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:42:10,payments,Isabella Rodriguez,empty,Isabella Rodriguez,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:42:20,payments,Isabella Rodriguez,empty,Isabella Rodriguez,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:50:10,tables,Isabella Rodriguez,empty,Isabella Rodriguez,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:50:20,tables,Isabella Rodriguez,empty,Isabella Rodriguez,being,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:51:20,blank,Isabella Rodriguez,empty,Isabella Rodriguez,occupied,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:51:30,blank,Isabella Rodriguez,empty,Isabella Rodriguez,occupied,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:51:40,tables,Isabella Rodriguez,empty,Isabella Rodriguez,occupied,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 09:51:50,tables,Isabella Rodriguez,empty,Isabella Rodriguez,occupied,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:05:10,supplies,Isabella Rodriguez,empty,Isabella Rodriguez,occupied,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:05:20,supplies,Isabella Rodriguez,empty,Isabella Rodriguez,occupied,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:06:00,supplies,Isabella Rodriguez,empty,Isabella Rodriguez,occupy,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:06:10,supplies,Isabella Rodriguez,empty,Isabella Rodriguez,occupy,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:15:10,customers,Isabella Rodriguez,empty,Isabella Rodriguez,occupy,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:15:20,customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:15:30,customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:15:40,customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:15:50,customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:35:10,break,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:35:20,break,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:35:30,break,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,idle,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:36:30,break,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:36:40,break,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:40:10,is,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:41:10,is,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:41:20,is,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:41:30,is,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:50:10,next rush of customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:50:20,next rush of customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:51:10,next rush of customers,Isabella Rodriguez,empty,Isabella Rodriguez,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:51:20,next rush of customers,Isabella Rodriguez,empty,is,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 10:51:30,next rush of customers,Isabella Rodriguez,empty,is,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:00:10,customers,Isabella Rodriguez,empty,is,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:00:20,customers,Isabella Rodriguez,empty,is,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:00:30,customers,Isabella Rodriguez,empty,is,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:00:40,customers,Isabella Rodriguez,empty,is,customers,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:01:20,customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:15:10,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:15:20,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:15:30,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:16:00,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:16:10,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:16:20,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:16:30,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:16:40,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:16:50,coffee,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:35:10,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:35:20,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:35:50,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:36:00,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:36:10,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,store ingredients and keep them cold,idle,idle,idle,display menu
+2023-02-13 11:37:00,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:37:10,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:37:20,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:37:30,inventory and restock,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:45:10,emails or messages from suppliers or customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:45:40,emails or messages from suppliers or customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:45:50,emails or messages from suppliers or customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:46:00,emails or messages from suppliers or customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:46:10,emails or messages from suppliers or customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,idle,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:47:10,emails or messages from suppliers or customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:55:10,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:56:20,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:56:40,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:56:50,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:57:00,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:57:10,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:57:20,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:57:40,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:57:50,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:58:00,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:58:10,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,coffee,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:58:30,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 11:58:40,break,Isabella Rodriguez,empty,is,occupied and lively,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:00:10,customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:00:20,customers,Isabella Rodriguez,empty,is,occupied and lively,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:00:30,customers,Isabella Rodriguez,empty,is,being,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:00:40,customers,Isabella Rodriguez,empty,is,being,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:05:10,orders from customers,Isabella Rodriguez,empty,is,being,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:05:20,orders from customers,Isabella Rodriguez,empty,is,being,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:05:30,orders from customers,Isabella Rodriguez,empty,is,being,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:05:40,orders from customers,Isabella Rodriguez,empty,is,being,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:06:40,orders from customers,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:35:10,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:35:20,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:36:20,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:36:30,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:36:40,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:36:50,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:37:00,drinks,Isabella Rodriguez,empty,is,various customers,clothes,Isabella Rodriguez,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+2023-02-13 12:37:10,drinks,Isabella Rodriguez,empty,is,various customers,clothes,functioning properly,idle,neat and organized,,in use,idle,frequently,idle,idle,idle,display menu
+
+timestamp,Isabella Rodriguez,bathroom sink,bed,cafe customer seating,closet,coffee machine,cooking area,desk,furnace,kitchen sink,piano,refrigerator,shelf,shower,toilet,tv
+bathroom sink: on, off  
+bed: occupied, empty  
+cafe customer seating: occupied, empty  
+closet: open, closed  
+coffee machine: on, off  
+cooking area: in use, idle  
+desk: occupied, unoccupied  
+furnace: on, off  
+kitchen sink: on, off  
+piano: in use, idle  
+refrigerator: open, closed  
+shelf: empty, full  
+shower: on, off  
+toilet: in use, idle  
+tv: on, off   

@@ -106,6 +106,7 @@ class ReverieServer:
         # The tile take the form of a set, (row, col).
         # e.g., ["Isabella Rodriguez"] = (58, 39)
         self.personas_tile = dict()
+        self.object_status = {}
 
         # # <persona_convo_match> is a dictionary that describes which of the two
         # # personas are talking to each other. It takes a key of a persona's full
@@ -579,7 +580,7 @@ class ReverieServer:
                 elif ("call -- load history"
                       in sim_command.lower()):
                     curr_file = maze_assets_loc + "/" + sim_command[len("call -- load history"):].strip()
-                    # call -- load history the_ville/agent_history_init_n3.csv
+                    # call -- load history the_ville/base_the_ville_isabella_case7
 
                     rows = read_file_to_list(curr_file, header=True, strip_trail=True)[1]
                     clean_whispers = []
