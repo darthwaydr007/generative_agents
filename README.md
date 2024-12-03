@@ -108,8 +108,8 @@ Command:
 ```bash
 python3 dataset-activity.py
 ```
-
-Filename: activity_data_{simulation}.csv
+**Output Files:**
+- activity_data_{simulation}.csv
 Location: backend_server folder
 
 ### Step 8: Generating Monitoring Dataset
@@ -118,9 +118,9 @@ To create the monitoring dataset, execute the command:
 ```bash
 python3 dataset-generate_uniform_timestamp.py
 ```
-
-smart_home_status_{simulation}.csv
-smart_home_status_{simulation}.json
+**Output Files:**
+- smart_home_status_{simulation}.csv
+- smart_home_status_{simulation}.json
 Location: backend_server folder
 
 Purpose: Log device status at uniform timestamps
@@ -129,18 +129,17 @@ Command:
 ```bash
 python3 data-analysis.py
 ```
-Output Files:
+**Output Files:**
 
-activity_data_analysis_{simulation}.csv
-activity_data_analysis_{simulation}.json
+- activity_data_analysis_{simulation}.csv
 Location: backend_server folder
 
-Analysis Insights:
+**Analysis Insights:**
 
-Character movement tracking
-Device interaction patterns
-Time spent in locations
-Additional computed metrics
+- Character movement tracking
+- Device interaction patterns
+- Time spent in locations
+- Additional computed metrics
 ###
 
 ### Tips
