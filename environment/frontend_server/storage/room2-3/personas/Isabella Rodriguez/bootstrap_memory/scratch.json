@@ -1,0 +1,611 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:19:00",
+  "curr_tile": [
+    8,
+    2
+  ],
+  "daily_plan_req": "Isabella Rodriguez cooks at 8am everyday, and works at the counter until 12pm, at which point relaxes. After waking up , she switch on the furnace.  She switch off the furnace at 10 am.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, hospitable",
+  "learned": "Isabella likes to cook relax and stay at home.",
+  "currently": "Isabella Rodriguez is planning to stay at home.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 1pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 78,
+  "importance_ele_n": 36,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "cook breakfast at 8:00 am",
+    "work at the counter until 12:00 pm",
+    "relax at 12:00 pm",
+    "switch on the furnace at 6:00 am",
+    "switch off the furnace at 10:00 am",
+    "have lunch at 12:30 pm",
+    "catch up on some TV or read a book at 1:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking breakfast (gathering ingredients for breakfast)",
+      10
+    ],
+    [
+      "cooking breakfast (preheating the oven)",
+      5
+    ],
+    [
+      "cooking breakfast (washing and chopping vegetables)",
+      15
+    ],
+    [
+      "cooking breakfast (boiling water for tea)",
+      5
+    ],
+    [
+      "cooking breakfast (preparing the eggs)",
+      10
+    ],
+    [
+      "cooking breakfast (toasting bread)",
+      5
+    ],
+    [
+      "cooking breakfast (cooking the eggs)",
+      10
+    ],
+    [
+      "cooking breakfast (checking on the vegetables)",
+      5
+    ],
+    [
+      "cooking breakfast (flipping the eggs)",
+      5
+    ],
+    [
+      "cooking breakfast (plating the breakfast)",
+      5
+    ],
+    [
+      "cooking breakfast (setting the table)",
+      5
+    ],
+    [
+      "cooking breakfast (pouring tea)",
+      5
+    ],
+    [
+      "cooking breakfast (sitting down to eat breakfast)",
+      20
+    ],
+    [
+      "cooking breakfast (cleaning up the kitchen)",
+      15
+    ],
+    [
+      "working at the counter (checking her emails)",
+      5
+    ],
+    [
+      "working at the counter (responding to urgent emails)",
+      10
+    ],
+    [
+      "working at the counter (making a to-do list for the day)",
+      10
+    ],
+    [
+      "working at the counter (organizing her work space)",
+      10
+    ],
+    [
+      "working at the counter (checking her schedule for the week)",
+      5
+    ],
+    [
+      "working at the counter (making phone calls to confirm appointments)",
+      10
+    ],
+    [
+      "working at the counter (taking a short break)",
+      5
+    ],
+    [
+      "working at the counter (reviewing her to-do list)",
+      5
+    ],
+    [
+      "relaxing (making herself a cup of tea)",
+      5
+    ],
+    [
+      "relaxing (finding a comfortable spot to sit)",
+      5
+    ],
+    [
+      "relaxing (turning on the TV or picking up a book)",
+      5
+    ],
+    [
+      "relaxing (sipping her tea and watching TV or reading)",
+      30
+    ],
+    [
+      "relaxing (taking a break to stretch or walk around)",
+      15
+    ],
+    [
+      "relaxing or catching up on TV/reading (making herself a cup of tea)",
+      5
+    ],
+    [
+      "relaxing or catching up on TV/reading (finding a comfortable spot to sit)",
+      5
+    ],
+    [
+      "relaxing or catching up on TV/reading (turning on the TV or picking up a book)",
+      5
+    ],
+    [
+      "relaxing or catching up on TV/reading (sipping her tea and watching TV or reading)",
+      30
+    ],
+    [
+      "relaxing or catching up on TV/reading (taking a break to stretch or use the bathroom)",
+      15
+    ],
+    [
+      "relaxing (making herself a cup of tea)",
+      5
+    ],
+    [
+      "relaxing (finding a comfortable spot to sit)",
+      5
+    ],
+    [
+      "relaxing (turning on the TV)",
+      5
+    ],
+    [
+      "relaxing (browsing through channels to find something to watch)",
+      10
+    ],
+    [
+      "relaxing (settling on a show or movie to watch)",
+      5
+    ],
+    [
+      "relaxing (getting a snack or drink)",
+      5
+    ],
+    [
+      "relaxing (getting comfortable and starting to watch the show or movie)",
+      10
+    ],
+    [
+      "relaxing (taking a break to use the bathroom)",
+      5
+    ],
+    [
+      "relaxing (returning to finish watching the show or movie)",
+      10
+    ],
+    [
+      "having lunch (preparing ingredients for lunch)",
+      10
+    ],
+    [
+      "having lunch (cooking lunch)",
+      30
+    ],
+    [
+      "having lunch (setting the table)",
+      5
+    ],
+    [
+      "having lunch (eating lunch)",
+      15
+    ],
+    [
+      "catching up on TV or reading (making a cup of tea)",
+      5
+    ],
+    [
+      "catching up on TV or reading (choosing a book or TV show to watch)",
+      10
+    ],
+    [
+      "catching up on TV or reading (settling into her favorite spot on the couch)",
+      5
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (choosing a book or TV show to read/watch)",
+      5
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (making a cup of tea or coffee to enjoy while reading/watching)",
+      5
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (settling into her favorite reading/watching spot)",
+      5
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (reading/watching for 15 minutes)",
+      15
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (taking a short break to stretch and get a snack)",
+      5
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (continuing to read/watch for another 15 minutes)",
+      15
+    ],
+    [
+      "catching up on TV or reading (reading or watching TV) (taking another short break to use the bathroom and refill her drink)",
+      10
+    ],
+    [
+      "catching up on TV or reading (taking a break to stretch and get a snack)",
+      10
+    ],
+    [
+      "catching up on TV or reading (continuing to read or watch TV)",
+      60
+    ],
+    [
+      "catching up on TV or reading (checking her phone for any messages or notifications)",
+      5
+    ],
+    [
+      "catching up on TV or reading (getting up to refill her tea or water)",
+      5
+    ],
+    [
+      "catching up on TV or reading (finishing the book or TV show)",
+      60
+    ],
+    [
+      "catching up on TV or reading (taking a break to use the bathroom)",
+      5
+    ],
+    [
+      "catching up on TV or reading (deciding on what to do next, whether to start a new book or watch another TV show)",
+      10
+    ],
+    [
+      "catching up on TV or reading (getting up to turn off the TV or put away her book)",
+      5
+    ],
+    [
+      "cooking dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing or spending time with family",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking breakfast",
+      120
+    ],
+    [
+      "working at the counter",
+      60
+    ],
+    [
+      "relaxing",
+      60
+    ],
+    [
+      "relaxing or catching up on TV/reading",
+      60
+    ],
+    [
+      "relaxing",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "catching up on TV or reading",
+      240
+    ],
+    [
+      "cooking dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing or spending time with family",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:shelf",
+  "act_start_time": "February 13, 2023, 14:15:00",
+  "act_duration": 5,
+  "act_description": "catching up on TV or reading (settling into her favorite spot on the couch)",
+  "act_pronunciatio": "\ud83d\udecb\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "settle",
+    "spot on couch"
+  ],
+  "act_obj_description": "neat and organized with a few books and small decoration items",
+  "act_obj_pronunciatio": "\ud83d\udcda",
+  "act_obj_event": [
+    "shelf",
+    "is",
+    "neat and organized with a few books and small decoration items"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

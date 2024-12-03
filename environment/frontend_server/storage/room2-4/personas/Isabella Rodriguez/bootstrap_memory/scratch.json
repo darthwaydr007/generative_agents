@@ -1,0 +1,543 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 17:06:30",
+  "curr_tile": [
+    2,
+    2
+  ],
+  "daily_plan_req": "Isabella Rodriguez cooks at 8am everyday, and works at the counter until 12pm, at which point relaxes. After waking up , she switch on the furnace.  She switch off the furnace at 10 am.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, hospitable",
+  "learned": "Isabella likes to cook relax and stay at home.",
+  "currently": "Isabella Rodriguez is planning to stay at home.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 1pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 86,
+  "importance_ele_n": 39,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "cook breakfast at 8:00 am",
+    "work at the counter from 9:00 am to 12:00 pm",
+    "relax and have lunch at 12:00 pm",
+    "complete any additional tasks or errands in the afternoon",
+    "return home and cook dinner at 6:00 pm",
+    "spend the evening with family or friends",
+    "turn on the furnace at 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking breakfast (preparing ingredients for breakfast)",
+      15
+    ],
+    [
+      "cooking breakfast (heating up the stove)",
+      5
+    ],
+    [
+      "cooking breakfast (chopping vegetables)",
+      10
+    ],
+    [
+      "cooking breakfast (boiling water for tea)",
+      5
+    ],
+    [
+      "cooking breakfast (cooking eggs)",
+      10
+    ],
+    [
+      "cooking breakfast (toasting bread)",
+      5
+    ],
+    [
+      "cooking breakfast (flipping pancakes)",
+      10
+    ],
+    [
+      "cooking breakfast (brewing tea)",
+      5
+    ],
+    [
+      "cooking breakfast (plating the breakfast)",
+      5
+    ],
+    [
+      "cooking breakfast (setting the table)",
+      5
+    ],
+    [
+      "cooking breakfast (pouring drinks)",
+      5
+    ],
+    [
+      "cooking breakfast (sitting down to eat breakfast)",
+      30
+    ],
+    [
+      "cooking breakfast (cleaning up the kitchen)",
+      10
+    ],
+    [
+      "working at the counter (checking her emails and responding to any urgent ones)",
+      15
+    ],
+    [
+      "working at the counter (making a to-do list for the day)",
+      10
+    ],
+    [
+      "working at the counter (organizing her work space)",
+      15
+    ],
+    [
+      "working at the counter (checking her schedule for the week)",
+      10
+    ],
+    [
+      "working at the counter (working on a project for a client) (checking her emails for any new project requests)",
+      5
+    ],
+    [
+      "working at the counter (working on a project for a client) (responding to any urgent emails)",
+      10
+    ],
+    [
+      "working at the counter (working on a project for a client) (reviewing the project requirements and creating a plan)",
+      15
+    ],
+    [
+      "working at the counter (working on a project for a client) (working on the project, completing tasks according to her plan)",
+      30
+    ],
+    [
+      "working at the counter (taking a short break)",
+      10
+    ],
+    [
+      "working at the counter (making phone calls to clients)",
+      30
+    ],
+    [
+      "working at the counter (reviewing and responding to any new emails)",
+      15
+    ],
+    [
+      "working at the counter (finishing up her work for the day)",
+      15
+    ],
+    [
+      "relaxing and having lunch (preparing her lunch)",
+      15
+    ],
+    [
+      "relaxing and having lunch (setting the table)",
+      5
+    ],
+    [
+      "relaxing and having lunch (eating her lunch)",
+      20
+    ],
+    [
+      "relaxing and having lunch (cleaning up after lunch)",
+      10
+    ],
+    [
+      "relaxing and having lunch (checking her emails)",
+      10
+    ],
+    [
+      "running errands (making a list of errands to run)",
+      10
+    ],
+    [
+      "running errands (getting dressed and ready to leave the house)",
+      15
+    ],
+    [
+      "running errands (driving to the first errand location)",
+      20
+    ],
+    [
+      "running errands (picking up groceries at the supermarket)",
+      30
+    ],
+    [
+      "running errands (driving to the next errand location)",
+      20
+    ],
+    [
+      "running errands (dropping off dry cleaning)",
+      15
+    ],
+    [
+      "running errands (driving to the next errand location)",
+      20
+    ],
+    [
+      "running errands (picking up a package at the post office)",
+      15
+    ],
+    [
+      "running errands (driving to the next errand location)",
+      20
+    ],
+    [
+      "running errands (getting gas for her car)",
+      10
+    ],
+    [
+      "running errands (driving to the next errand location)",
+      20
+    ],
+    [
+      "running errands (dropping off a donation at a charity)",
+      15
+    ],
+    [
+      "running errands (driving to the next errand location)",
+      20
+    ],
+    [
+      "running errands (picking up a prescription at the pharmacy)",
+      15
+    ],
+    [
+      "running errands (driving back home)",
+      20
+    ],
+    [
+      "running errands (putting away groceries and other items)",
+      15
+    ],
+    [
+      "running errands (taking a break and having a snack)",
+      10
+    ],
+    [
+      "running errands (checking her to-do list to make sure all errands were completed)",
+      10
+    ],
+    [
+      "cooking dinner (deciding on a recipe for dinner)",
+      5
+    ],
+    [
+      "cooking dinner (checking her pantry and making a grocery list)",
+      10
+    ],
+    [
+      "cooking dinner (going to the grocery store)",
+      20
+    ],
+    [
+      "cooking dinner (unpacking and organizing groceries)",
+      10
+    ],
+    [
+      "cooking dinner (preheating the oven)",
+      15
+    ],
+    [
+      "spending time with family/friends",
+      60
+    ],
+    [
+      "preparing for bed and turning off the furnace",
+      60
+    ],
+    [
+      "spending time with family/friends",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed and setting the alarm for 6:00 am tomorrow morning",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking breakfast",
+      120
+    ],
+    [
+      "working at the counter",
+      180
+    ],
+    [
+      "relaxing and having lunch",
+      60
+    ],
+    [
+      "running errands",
+      300
+    ],
+    [
+      "cooking dinner",
+      60
+    ],
+    [
+      "spending time with family/friends",
+      60
+    ],
+    [
+      "preparing for bed and turning off the furnace",
+      60
+    ],
+    [
+      "spending time with family/friends",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed and setting the alarm for 6:00 am tomorrow morning",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 13, 2023, 17:05:00",
+  "act_duration": 20,
+  "act_description": "running errands (driving back home)",
+  "act_pronunciatio": "\ud83d\ude97",
+  "act_event": [
+    "Isabella Rodriguez",
+    "drive",
+    "home"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "is being slept on",
+    "null"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

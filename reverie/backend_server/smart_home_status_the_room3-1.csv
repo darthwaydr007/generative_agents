@@ -1,0 +1,731 @@
+timestamp,Isabella Rodriguez,bathroom sink,bed,behind the cafe counter,cafe customer seating,closet,coffee machine,cooking area,desk,furnace,kitchen sink,piano,refrigerator,shelf,shower,toilet,tv
+2023-02-13 06:00:00,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 06:00:10,morning routine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 06:00:20,morning routine,idle,unmade,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:00:10,shower,idle,unmade,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:01:40,shower,idle,unmade,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 07:02:00,shower,idle,unmade,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:15:10,dressed,idle,unmade,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:15:30,dressed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:16:20,dressed,idle,idle,idle,idle,access,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:25:10,hair and makeup,idle,idle,idle,idle,access,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:26:00,hair and makeup,idle,idle,idle,idle,access,idle,idle,makeup and hair products,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:45:10,bag,idle,idle,idle,idle,access,idle,idle,makeup and hair products,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:45:20,bag,idle,idle,idle,idle,idle,idle,idle,makeup and hair products,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:45:30,bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:45:40,bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:45:50,bag,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:50:10,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:51:10,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:51:30,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:51:40,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:51:50,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:52:00,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:52:10,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:52:30,breakfast,idle,idle,idle,Isabella Rodriguez,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:52:40,breakfast,idle,idle,idle,Isabella Rodriguez,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:52:50,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 07:53:00,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:00:10,doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:00:20,doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:00:30,doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:01:10,doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:01:20,doors,idle,idle,busy preparing for the day,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:05:10,lights,idle,idle,busy preparing for the day,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:05:20,lights,idle,idle,busy preparing for the day,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:05:30,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:05:40,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:05:50,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:06:00,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:06:30,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:06:40,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:06:50,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,news channel
+2023-02-13 08:10:10,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,news channel
+2023-02-13 08:10:20,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:10:30,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:11:40,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,items,idle,use,idle,idle
+2023-02-13 08:11:50,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,items,idle,use,idle,idle
+2023-02-13 08:20:10,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:20:20,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,is,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:20:30,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:20:40,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:25:10,temperature,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,properly,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:25:20,temperature,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:30:10,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:30:50,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:31:00,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:31:10,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,cafe menu
+2023-02-13 08:31:20,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,cafe menu
+2023-02-13 08:35:10,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,cafe menu
+2023-02-13 08:35:20,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:35:30,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:35:40,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:36:40,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:36:50,is,idle,idle,day's operation,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:37:00,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:37:10,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:45:10,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:45:20,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:45:30,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:45:40,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:46:20,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:46:30,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:47:10,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,fresh pot of coffee,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:47:20,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,fresh pot of coffee,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:47:30,fresh pot of coffee,idle,idle,idle,idle,Isabella Rodriguez,fresh pot of coffee,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:50:10,pastries and other food items,idle,idle,idle,Isabella Rodriguez and other customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 08:50:20,pastries and other food items,idle,idle,idle,Isabella Rodriguez and other customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:00:10,lights,idle,idle,idle,Isabella Rodriguez and other customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:00:20,lights,idle,idle,idle,Isabella Rodriguez and other customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:00:40,lights,idle,idle,idle,Isabella Rodriguez and other customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:00:50,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:01:20,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,heat,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:01:30,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,heat,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:01:40,lights,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:05:10,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:05:20,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:05:30,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,open and close,idle,use,idle,idle
+2023-02-13 09:05:40,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,open and close,idle,use,idle,idle
+2023-02-13 09:05:50,inventory and restock,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:15:10,coffee machine and other equipment,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:15:20,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:16:10,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:16:20,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:16:30,coffee machine and other equipment,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:16:40,coffee machine and other equipment,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:16:50,coffee machine and other equipment,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:17:00,coffee machine and other equipment,idle,idle,idle,idle,Isabella Rodriguez,ready for brewing,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:17:10,coffee machine and other equipment,idle,idle,idle,idle,Isabella Rodriguez,ready for brewing,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:25:10,is,idle,idle,idle,is,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:35:10,TV,idle,idle,idle,is,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:36:20,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,null
+2023-02-13 09:36:30,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,null
+2023-02-13 09:36:40,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,null
+2023-02-13 09:36:50,TV,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:40:10,customers,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:40:20,customers,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:41:00,customers,idle,idle,idle,customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 09:41:10,customers,idle,idle,idle,customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:00:10,customers,idle,idle,idle,customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:00:20,customers,idle,idle,idle,occupied,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:00:30,customers,idle,idle,idle,occupied,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:00:40,customers,idle,idle,idle,occupied,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:00:50,customers,idle,idle,idle,occupied,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:05:10,orders from customers,idle,idle,idle,occupied,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:05:20,orders from customers,idle,idle,idle,various customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:05:30,orders from customers,idle,idle,idle,various customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:05:40,orders from customers,idle,idle,idle,various customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:35:10,drinks,idle,idle,idle,various customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:35:20,drinks,idle,idle,idle,various customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:35:30,drinks,idle,idle,idle,idle,Isabella Rodriguez,,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 10:35:40,drinks,idle,idle,idle,idle,Isabella Rodriguez,,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:05:10,payments,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:05:20,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:05:30,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:05:50,blank,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:06:00,payments,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:06:10,payments,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:06:20,payments,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:07:00,payments,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:07:10,payments,idle,idle,busy and bustling,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:07:20,payments,idle,idle,busy and bustling,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:20:10,counter,idle,idle,busy and bustling,idle,Isabella Rodriguez,idle,idle,idle,idle,washing dishes,idle,idle,idle,use,idle,idle
+2023-02-13 11:20:20,counter,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,washing dishes,idle,idle,idle,use,idle,idle
+2023-02-13 11:40:10,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:40:20,is,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:41:10,is,idle,idle,idle,customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:50:10,break,idle,idle,idle,customers,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:50:20,break,idle,idle,idle,occupy,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:50:30,break,idle,idle,idle,occupy,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 11:50:40,break,idle,idle,idle,occupy,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:00:10,cafe and lock doors,idle,idle,idle,occupy,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:00:20,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:00:30,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:00:40,cafe and lock doors,idle,idle,idle,being,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:00:50,cafe and lock doors,idle,idle,idle,being,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:01:00,cafe and lock doors,idle,idle,idle,being,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:05:10,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:05:20,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:05:30,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:05:50,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:06:00,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:06:10,furnace,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:10:10,hands,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:10:20,hands,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:11:00,hands,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,wash hands,idle,idle,idle,use,idle,idle
+2023-02-13 12:11:10,hands,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,wash hands,idle,idle,idle,use,idle,idle
+2023-02-13 12:15:10,lunch,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:15:20,lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:16:30,lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,frequently,idle,use,idle,idle
+2023-02-13 12:35:10,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,frequently,idle,use,idle,idle
+2023-02-13 12:36:20,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:36:40,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:36:50,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:37:00,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:37:10,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:37:20,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:37:40,eat lunch,idle,idle,idle,Isabella Rodriguez taking a lunch break,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:37:50,eat lunch,idle,idle,idle,Isabella Rodriguez taking a lunch break,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:38:00,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 12:38:10,eat lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:05:10,phone,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:05:20,phone,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:05:30,phone,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:06:10,phone,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:06:20,phone,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:06:30,phone,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:08:00,phone,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:15:10,walk,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:15:20,walk,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,use,idle,idle
+2023-02-13 13:30:10,water bottle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,use,idle,idle
+2023-02-13 13:30:20,water bottle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,use,idle,idle
+2023-02-13 13:35:10,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:36:20,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:36:30,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:36:40,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:36:50,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:37:00,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:37:10,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:37:20,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:37:40,inventory and make a list of items that need to be restocked,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:37:50,inventory and make a list of items that need to be restocked,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 13:38:00,inventory and make a list of items that need to be restocked,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:00:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:00:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:01:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:01:20,is,idle,idle,busy and bustling,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:01:30,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:01:40,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:05:10,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:05:20,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:05:30,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:05:40,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:05:50,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:06:20,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:06:30,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:06:40,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:06:50,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:07:00,drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:07:10,drinks,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:07:20,drinks,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:07:30,drinks,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:15:10,is,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:20:10,supplies and counter,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:20:20,supplies and counter,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:20:30,supplies and counter,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:20:40,supplies and counter,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:20:50,supplies and counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:21:00,supplies and counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:21:10,supplies and counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:21:20,supplies and counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:21:50,supplies and counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:22:00,supplies and counter,idle,idle,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:22:10,supplies and counter,idle,idle,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:22:20,supplies and counter,idle,idle,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:35:10,customers,idle,idle,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:35:20,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:35:30,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:36:20,customers,idle,idle,idle,occupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:36:30,customers,idle,idle,idle,occupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:55:10,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:55:20,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:55:30,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 14:56:00,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:05:10,is,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:05:20,is,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:05:30,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:05:40,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:20:10,food orders,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:20:20,food orders,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:20:30,food orders,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:20:40,food orders,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:21:10,food orders,idle,idle,idle,idle,idle,idle,busy and active,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:21:20,food orders,idle,idle,idle,idle,idle,idle,busy and active,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:21:30,food orders,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:50:10,food,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 15:50:50,food,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:10:10,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:10:20,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:10:30,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:10:40,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:25:10,tables and condiments,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:25:20,blank,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:25:30,blank,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:25:40,tables and condiments,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:45:10,drinks,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:45:20,drinks,idle,idle,idle,occupied and utilized,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 16:45:30,drinks,idle,idle,idle,occupied and utilized,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:15:10,customers,idle,idle,idle,occupied and utilized,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:15:20,customers,idle,idle,idle,fully occupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:15:30,customers,idle,idle,idle,fully occupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:35:10,break,idle,idle,idle,fully occupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:35:20,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:35:30,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:35:40,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:35:50,break,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:45:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:45:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:45:40,is,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 17:45:50,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 18:00:10,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 18:01:10,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 18:01:20,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 18:01:30,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 18:01:40,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 18:10:10,coffee beans and other supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 18:10:20,coffee beans and other supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 18:11:00,coffee beans and other supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:25:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:25:50,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:26:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:26:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:26:30,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:26:40,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:26:50,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:27:10,is,idle,idle,idle,next day,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:27:20,blank,idle,idle,idle,next day,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:27:30,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:27:40,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:35:10,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:35:20,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:35:30,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:40:10,furnace,idle,idle,idle,idle,idle,idle,idle,idle,cooling down,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:40:20,furnace,idle,idle,idle,idle,idle,idle,idle,idle,cooling down,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:40:30,furnace,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:45:10,security cameras,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:45:50,security cameras,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:46:00,security cameras,idle,idle,night,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:46:10,security cameras,idle,idle,night,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:55:10,alarm system,idle,idle,night,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:55:20,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:55:30,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:55:40,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:55:50,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:56:30,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:56:40,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 18:56:50,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,being
+2023-02-13 19:00:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,being
+2023-02-13 19:00:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:01:40,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:01:50,is,idle,idle,busy and bustling,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:02:00,is,idle,idle,busy and bustling,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:02:10,is,idle,idle,busy and bustling,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:10:10,coffee to customers,idle,idle,busy and bustling,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:10:20,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:10:30,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:10:40,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:11:20,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:11:30,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:11:40,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:11:50,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:12:00,coffee to customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:12:10,coffee to customers,idle,idle,idle,idle,idle,in use,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:12:20,coffee to customers,idle,idle,idle,idle,idle,in use,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:30:10,small talk and getting to know her customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:30:30,small talk and getting to know her customers,idle,idle,idle,occupied and lively,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:30:40,small talk and getting to know her customers,idle,idle,idle,occupied and lively,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:30:50,small talk and getting to know her customers,idle,idle,idle,occupied and lively,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:31:00,small talk and getting to know her customers,idle,idle,idle,occupied and lively,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:45:10,customers,idle,idle,idle,occupied and lively,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:45:20,customers,idle,idle,idle,Isabella Rodriguez and her customers,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 19:55:10,break,idle,idle,idle,Isabella Rodriguez and her customers,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:00:10,counter,idle,idle,idle,Isabella Rodriguez and her customers,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:00:20,counter,idle,idle,idle,Isabella Rodriguez and her customers,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:00:30,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:00:40,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:01:30,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,clean and empty,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:01:40,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,clean and empty,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:10:10,coffee beans and other supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,coffee beans and other supplies,use,idle,idle
+2023-02-13 20:10:20,coffee beans and other supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 20:11:00,coffee beans and other supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:25:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:25:50,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:26:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:26:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:26:30,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:26:40,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,day,restock,use,idle,idle
+2023-02-13 20:26:50,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:35:10,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:35:20,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,-,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:35:30,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:35:40,lights and lock doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:40:10,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:40:20,alarm system,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:45:10,TV,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:50:10,tables and chairs,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:50:20,tables and chairs,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:50:30,blank,idle,idle,idle,clean and organize,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:50:40,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 20:50:50,tables and chairs,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:00:10,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:00:20,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:01:10,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:01:20,lights,idle,idle,dark and empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:01:30,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:01:40,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:05:10,counter and tables,idle,idle,idle,idle,idle,idle,idle,idle,idle,washing dishes,idle,idle,restock,use,idle,idle
+2023-02-13 21:20:10,is,idle,idle,idle,idle,idle,idle,clean and organized,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:20:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:30:10,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:30:20,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,use,idle,idle
+2023-02-13 21:30:30,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:30:40,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:31:40,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,supplies,idle,use,idle,idle
+2023-02-13 21:40:10,TV,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,supplies,idle,use,idle,idle
+2023-02-13 21:41:20,TV,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:41:30,TV,idle,idle,idle,idle,idle,idle,idle,idle,idle,empty,idle,idle,idle,use,idle,idle
+2023-02-13 21:45:10,cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:45:20,cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:45:30,cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:46:30,cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,,idle,use,idle,idle
+2023-02-13 21:50:10,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,,idle,use,idle,idle
+2023-02-13 21:51:20,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:51:40,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:51:50,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:52:00,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:52:10,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,use,idle,idle
+2023-02-13 21:52:20,alarm,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:55:10,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:55:20,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:55:30,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:55:40,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:55:50,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:56:00,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:56:10,coat and bag,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 21:56:50,coat and bag,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:00:10,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:01:00,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:01:20,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:01:30,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:01:40,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:01:50,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:02:00,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:02:20,cafe and lock doors,idle,idle,idle,belongings,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:02:30,cafe and lock doors,idle,idle,idle,belongings,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:02:40,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:02:50,cafe and lock doors,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:05:10,earnings,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:05:20,earnings,idle,idle,idle,Isabella Rodriguez counting the day's earnings and recording them in the cash register,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:05:30,earnings,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:05:40,earnings,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:15:10,counter and tables,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:15:20,counter and tables,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:15:30,counter and tables,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:16:30,counter and tables,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 22:16:40,counter and tables,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 22:16:50,counter and tables,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,being,idle,idle,idle,use,idle,idle
+2023-02-13 22:30:10,dishes,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:30:20,dishes,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-13 22:31:10,dishes,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:31:20,dishes,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:40:10,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:40:20,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:41:10,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:41:20,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:41:30,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:41:40,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:41:50,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:42:00,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,restock,idle,idle,idle,idle
+2023-02-13 22:42:10,items,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:50:10,lights and lock up cafe,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:50:20,lights and lock up cafe,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:50:30,lights and lock up cafe,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:50:50,lights and lock up cafe,in use,idle,idle,unoccupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:51:00,lights and lock up cafe,in use,idle,idle,unoccupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:51:10,lights and lock up cafe,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:55:10,bag and coat,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:55:20,bag and coat,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:56:10,bag and coat,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:56:20,bag and coat,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:56:30,blank,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:56:40,bag and coat,in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 22:57:20,bag and coat,in use,idle,idle,idle,get ready for bed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:00:10,teeth,in use,idle,idle,idle,get ready for bed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:01:00,teeth,idle,idle,idle,idle,get ready for bed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:01:10,teeth,is,idle,idle,idle,get ready for bed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:05:10,face,Isabella Rodriguez,idle,idle,idle,get ready for bed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:10:10,pajamas,Isabella Rodriguez,idle,idle,idle,get ready for bed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:10:20,pajamas,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:11:10,pajamas,Isabella Rodriguez,idle,idle,idle,access,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:15:10,alarm,Isabella Rodriguez,idle,idle,idle,access,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:16:00,alarm,Isabella Rodriguez,idle,idle,idle,access,idle,idle,surface,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:20:10,lights,Isabella Rodriguez,idle,idle,idle,access,idle,idle,surface,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:20:20,lights,Isabella Rodriguez,being,idle,idle,idle,idle,idle,surface,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:20:30,lights,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:25:10,phone,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:25:20,phone,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,close,idle,idle,idle,idle
+2023-02-13 23:30:10,bed,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,close,idle,idle,idle,idle
+2023-02-13 23:30:20,bed,Isabella Rodriguez,null,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:30:30,bed,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:35:10,book,Isabella Rodriguez,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:50:10,TV,Isabella Rodriguez,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:50:30,TV,Isabella Rodriguez,being,idle,idle,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:50:40,TV,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:55:10,lights,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-13 23:56:10,lights,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,store books,idle,idle,idle
+2023-02-14 00:00:00,Tuesday February 14,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,store books,idle,idle,idle
+2023-02-14 00:00:10,sleep,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 00:00:50,sleep,Isabella Rodriguez,null,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 00:01:00,sleep,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:00:10,is,Isabella Rodriguez,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:05:10,teeth,Isabella Rodriguez,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:06:50,teeth,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:07:00,teeth,brushing teeth,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:10:10,face,is,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:15:10,shower,is,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:15:20,shower,is,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-14 06:30:10,dressed,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,use,idle,idle
+2023-02-14 06:30:20,dressed,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:30:40,dressed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:30:50,dressed,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:31:30,dressed,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:40:10,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 06:40:20,breakfast,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-14 06:40:30,breakfast,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-14 07:00:10,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:01:20,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:01:30,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:01:40,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:01:50,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:02:00,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:02:10,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:02:20,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:02:40,blank,idle,idle,idle,neat and inviting,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:02:50,blank,idle,idle,idle,neat and inviting,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:03:00,counter,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:10:10,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:10:20,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:11:00,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:11:10,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:11:20,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:11:30,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:11:40,coffee machine,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:11:50,coffee machine,idle,idle,idle,idle,idle,,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:12:00,coffee machine,idle,idle,idle,idle,idle,,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:12:10,coffee machine,idle,idle,idle,idle,idle,,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:12:20,coffee machine,idle,idle,idle,idle,idle,,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:20:10,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:20:20,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:20:30,customers,idle,idle,idle,customers sitting and enjoying their drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:20:40,customers,idle,idle,idle,customers sitting and enjoying their drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:20:50,customers,idle,idle,idle,customers sitting and enjoying their drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:21:00,customers,idle,idle,idle,customers sitting and enjoying their drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:35:10,drinks for customers,idle,idle,idle,customers sitting and enjoying their drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:35:20,drinks for customers,idle,idle,idle,customers sitting and enjoying their drinks,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:35:30,drinks for customers,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:35:40,drinks for customers,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:55:10,supplies and counter,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 07:55:20,supplies and counter,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:00:10,cafe doors,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:00:20,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:00:30,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:00:40,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:00:50,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:01:00,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:01:10,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,play,idle,idle,idle,idle,idle
+2023-02-14 08:01:20,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:01:30,cafe doors,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:05:10,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:05:20,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:05:30,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:05:40,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:05:50,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:06:00,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:06:10,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:06:20,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:06:30,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:06:40,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:06:50,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:07:00,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:07:10,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:07:40,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-14 08:07:50,lights,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-14 08:10:10,temperature,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,Isabella Rodriguez,idle,idle,idle,idle
+2023-02-14 08:10:20,temperature,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:10:30,temperature,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:11:20,temperature,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:11:30,temperature,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:11:40,temperature,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,news channel
+2023-02-14 08:15:10,furnace,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,news channel
+2023-02-14 08:15:20,furnace,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,news channel
+2023-02-14 08:15:30,furnace,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:15:40,furnace,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:16:00,furnace,idle,idle,idle,idle,idle,idle,idle,idle,-,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:20:10,inventory of supplies,idle,idle,idle,idle,idle,idle,idle,idle,-,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:20:20,inventory of supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:20:30,inventory of supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:20:40,inventory of supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,inventory supplies,idle,idle,idle,idle
+2023-02-14 08:20:50,inventory of supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:30:10,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:30:20,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:30:40,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:30:50,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:31:00,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:31:10,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 08:31:40,necessary supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:40:10,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:40:50,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:41:10,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:41:20,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:41:30,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:41:40,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:41:50,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:42:10,counter and seating areas,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:42:20,counter and seating areas,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:42:30,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:42:40,counter and seating areas,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:50:10,cleanliness of cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:50:20,cleanliness of cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:50:30,blank,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:50:40,blank,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:50:50,cleanliness of cafe,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:55:10,cafe,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:55:20,cafe,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:55:30,cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 08:55:40,cafe,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:00:10,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:00:20,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:00:30,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:00:40,customers,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:00:50,customers,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:01:00,customers,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:05:10,is,idle,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:05:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:05:30,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:06:00,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:06:10,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:06:20,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:06:30,is,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:06:50,is,idle,idle,idle,idle,idle,in use,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:35:10,small talk,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:35:20,small talk,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:35:50,small talk,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 09:36:00,small talk,idle,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:05:10,tables,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:05:20,tables,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:05:30,tables,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:06:00,tables,idle,idle,idle,occupy,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:06:10,tables,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:20:10,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:20:40,supplies,idle,idle,idle,occupied and in use,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:20:50,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:21:00,supplies,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:35:10,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:35:20,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:35:30,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:36:50,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:37:00,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,well-organized and fully stocked,idle,idle,idle
+2023-02-14 10:37:10,break,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:38:40,break,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:45:10,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:46:40,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:47:00,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:47:10,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:47:20,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:47:30,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:47:40,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:48:00,is,idle,being,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:48:10,is,idle,being,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:48:20,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 10:48:30,is,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 11:15:10,counters and tables,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 11:15:20,counters and tables,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 11:15:30,counters and tables,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 11:16:10,counters and tables,idle,being,idle,idle,idle,idle,idle,idle,idle,in use,idle,idle,idle,idle,idle,idle
+2023-02-14 11:16:20,counters and tables,idle,being,idle,idle,idle,idle,idle,idle,idle,in use,idle,idle,idle,idle,idle,idle
+2023-02-14 11:16:30,counters and tables,idle,being,idle,idle,idle,idle,idle,idle,idle,in use,idle,idle,idle,idle,idle,idle
+2023-02-14 11:30:10,small talk with customers,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 11:31:10,small talk with customers,idle,being,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:00:10,cafe and lock doors,idle,being,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:00:20,cafe and lock doors,idle,being,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:00:30,cafe and lock doors,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:00:40,cafe and lock doors,idle,being,idle,empty and not in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:00:50,cafe and lock doors,idle,being,idle,empty and not in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:01:00,cafe and lock doors,idle,being,idle,empty and not in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:05:10,hands and street clothes,idle,being,idle,empty and not in use,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:05:20,hands and street clothes,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:06:50,hands and street clothes,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:07:00,hands and street clothes,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:07:10,hands and street clothes,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:07:20,hands and street clothes,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:08:00,hands and street clothes,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:08:10,,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:15:10,phone,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:15:20,phone,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:16:30,phone,warm water,idle,idle,idle,idle,idle,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:20:10,lunch,warm water,idle,idle,idle,idle,idle,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:20:50,lunch,warm water,idle,idle,idle,Isabella Rodriguez,idle,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:25:10,lunch,warm water,idle,idle,idle,Isabella Rodriguez,idle,idle,empty,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:25:20,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:26:10,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:26:20,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:26:30,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:26:40,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:26:50,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:27:00,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:27:10,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:27:30,lunch,warm water,idle,idle,Isabella Rodriguez setting up her lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:27:40,lunch,warm water,idle,idle,Isabella Rodriguez setting up her lunch,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:27:50,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:30:10,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:30:20,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:31:10,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:31:30,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:31:40,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 12:32:40,lunch,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,cool temperature,idle,idle,idle,idle
+2023-02-14 13:00:10,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,cool temperature,idle,idle,idle,idle
+2023-02-14 13:01:20,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:01:40,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:01:50,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:02:00,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:02:10,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:02:20,customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:02:40,customers,warm water,idle,idle,occupy,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:02:50,customers,warm water,idle,idle,occupy,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:05:10,is,warm water,idle,idle,occupy,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:05:20,is,warm water,idle,idle,occupy,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:05:40,is,warm water,idle,idle,various customers enjoying their drinks and meals,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:05:50,is,warm water,idle,idle,various customers enjoying their drinks and meals,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:06:00,is,warm water,idle,idle,various customers enjoying their drinks and meals,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:20:10,drinks and food,warm water,idle,idle,various customers enjoying their drinks and meals,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:20:20,blank,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:20:30,blank,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:20:40,drinks and food,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:40:10,small talk with customers and make them feel welcome,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:40:20,small talk with customers and make them feel welcome,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:40:30,small talk with customers and make them feel welcome,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:40:40,small talk with customers and make them feel welcome,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:50:10,tables,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:50:20,tables,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:50:30,tables,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:50:40,tables,warm water,idle,idle,various customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:50:50,tables,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 13:52:00,tables,warm water,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:00:10,orders from customers,warm water,idle,idle,being,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:00:20,orders from customers,warm water,idle,idle,occupied by customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:00:30,orders from customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:00:40,orders from customers,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:15:10,drinks,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:15:20,drinks,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:15:30,drinks,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:16:00,drinks,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:16:10,drinks,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:16:20,drinks,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:16:50,drinks,warm water,idle,idle,idle,idle,functioning,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:45:10,customers,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 14:45:20,customers,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:15:10,tables,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:15:20,tables,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:15:30,tables,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:15:40,tables,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:15:50,tables,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:30:10,break,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:30:20,break,warm water,idle,idle,customers,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:30:30,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:30:40,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:30:50,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:31:30,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:31:40,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:31:50,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:32:00,break,warm water,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle
+2023-02-14 15:33:20,break,warm water,occupied,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle,idle

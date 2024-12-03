@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        4,
+        2
+      ],
+      "pronunciatio": "\ud83e\udd69",
+      "description": "preparing breakfast and cooking (preparing the protein for the dish) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:48:10"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        4,
+        8
+      ],
+      "pronunciatio": "\ud83e\uddfd",
+      "description": "closing the cafe and switching off the TV (cleaning and wiping down the counter) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:00:50"
+  }
+}

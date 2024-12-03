@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        3,
+        13
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "getting ready for bed (counting the day's earnings and recording them in the cash register) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:05:30"
+  }
+}
