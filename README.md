@@ -81,6 +81,68 @@ You may have noticed that all character sprites in the replay look identical. We
 To start the demo, go to the following address on your browser: `http://localhost:8000/demo/<simulation-name>/<starting-time-step>/<simulation-speed>`. Note that `<simulation-name>` and `<starting-time-step>` denote the same things as mentioned above. `<simulation-speed>` can be set to control the demo speed, where 1 is the slowest, and 5 is the fastest. For instance, visiting the following link will start a pre-simulated example, beginning at time-step 1, with a medium demo speed:  
 [http://localhost:8000/demo/July1_the_ville_isabella_maria_klaus-step-3-20/1/3/](http://localhost:8000/demo/July1_the_ville_isabella_maria_klaus-step-3-20/1/3/)
 
+### Step 6: Experiment Setup
+Simulation Parameters:
+
+Duration: 12,000 steps
+Start Time: 2023-02-13 06:00:00
+End Time: 2023-02-14 15:33:20
+
+**ALLOWED_DEVICES:**  
+- Furnace  
+- Shower  
+- TV  
+- Piano  
+- Kitchen Sink  
+- Refrigerator  
+- Coffee Machine  
+- Bathroom Sink 
+
+Note: To monitor additional devices:
+
+Modify ALLOWED_DEVICES dictionary in dataset-generate_uniform_timestamp.py
+Define corresponding device status extraction procedures
+
+### Step 7: Generating Activity Dataset
+Command:
+```bash
+python3 dataset-activity.py
+```
+
+Filename: activity_data_{simulation}.csv
+Location: backend_server folder
+
+### Step 8: Generating Monitoring Dataset
+Command:
+To create the monitoring dataset, execute the command:  
+```bash
+python3 dataset-generate_uniform_timestamp.py
+```
+
+smart_home_status_{simulation}.csv
+smart_home_status_{simulation}.json
+Location: backend_server folder
+
+Purpose: Log device status at uniform timestamps
+### Step 9: Activity Dataset Analysis
+Command:
+```bash
+python3 data-analysis.py
+```
+Output Files:
+
+activity_data_analysis_{simulation}.csv
+activity_data_analysis_{simulation}.json
+Location: backend_server folder
+
+Analysis Insights:
+
+Character movement tracking
+Device interaction patterns
+Time spent in locations
+Additional computed metrics
+###
+
 ### Tips
 We've noticed that OpenAI's API can hang when it reaches the hourly rate limit. When this happens, you may need to restart your simulation. For now, we recommend saving your simulation often as you progress to ensure that you lose as little of the simulation as possible when you do need to stop and rerun it. Running these simulations, at least as of early 2023, could be somewhat costly, especially when there are many agents in the environment.
 
