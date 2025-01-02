@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        12,
+        9
+      ],
+      "pronunciatio": "\ud83d\udcb0",
+      "description": "opening Hobbs Cafe and preparing for the day's operations (setting up the cash register and making sure it is working properly) @ the Ville:Hobbs Cafe:cafe:coffee machine",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 07:57:00"
+  }
+}

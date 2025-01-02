@@ -1,0 +1,10 @@
+Total distance traveled: 965.00 units
+
+Time spent in each location (in seconds):
+Location
+the Ville:Hobbs Cafe:cafe                             74100.0
+the Ville:Isabella Rodriguez's apartment:bathroom      4200.0
+the Ville:Isabella Rodriguez's apartment:main room    42690.0
+
+Most frequent location: the Ville:Hobbs Cafe:cafe
+

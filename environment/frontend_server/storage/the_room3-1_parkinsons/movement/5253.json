@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        3,
+        10
+      ],
+      "pronunciatio": "\u2744\ufe0f",
+      "description": "closing Hobbs Cafe and turning off the furnace (turning off the furnace) @ the Ville:Hobbs Cafe:cafe:furnace",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:35:30"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        12,
+        14
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "playing the piano to create a pleasant atmosphere for customers (warming up her fingers) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:05:40"
+  }
+}
