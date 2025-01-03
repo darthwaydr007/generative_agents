@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        4,
+        2
+      ],
+      "pronunciatio": "\ud83c\udf5e\ud83c\udf53",
+      "description": "at home, enjoying her morning tea and light breakfast (preparing her light breakfast, consisting of toast and fruit) @ the Ville:Maria Lopez's apartment:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:38:00"
+  }
+}

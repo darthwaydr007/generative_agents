@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        6,
+        2
+      ],
+      "pronunciatio": "\ud83d\udca1\ud83c\udfe0",
+      "description": "getting ready for bed and going to sleep at 8:30 pm (turning off the lights and closing the curtains) @ the Ville:Maria Lopez's apartment:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:25:00"
+  }
+}

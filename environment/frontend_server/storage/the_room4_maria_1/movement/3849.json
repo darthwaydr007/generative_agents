@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        3,
+        11
+      ],
+      "pronunciatio": "\u23f8\ufe0f",
+      "description": "working at the counter at Hobbs Cafe (taking more orders and preparing drinks and food) (taking a short break to rest and stretch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:41:30"
+  }
+}

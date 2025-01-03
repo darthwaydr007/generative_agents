@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        6,
+        7
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfc",
+      "description": "closing Hobbs Cafe (sweeping and mopping the floors) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:34:00"
+  }
+}
