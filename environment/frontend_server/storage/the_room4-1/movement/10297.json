@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        2,
+        2
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "continuing to work at the counter, taking orders and interacting with customers (restocking supplies at the counter) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:36:10"
+  }
+}

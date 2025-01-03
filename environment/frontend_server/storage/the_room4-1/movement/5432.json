@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        8,
+        12
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "watching TV in Hobbs Cafe (locking the front door of the cafe) @ the Ville:Hobbs Cafe:cafe:coffee machine",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 21:05:20"
+  }
+}
