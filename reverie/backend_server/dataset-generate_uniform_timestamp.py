@@ -80,19 +80,22 @@ for node_id, node in data.items():
         status = f"{description}||{predicate}||{obj}"
         if device == "furnace":
             if "use" in predicate or "provide" in predicate or "on" in predicate:
-                status = "turn on"
+                status = "turned on"
             elif "off" in predicate:
-                status = "turn off"
+                status = "turned off"
             else:
                 status = f"{predicate}"
-            
             pass
         elif device == "shower":
             status = f"{obj}"
+            if status != "idle":
+                status = "in use"
             pass
         elif device == "tv":
-            if "display" in predicate:
-                status = "menu displayed"
+            if "display" in predicate or "on" in predicate:
+                status = "turned on"
+            elif  "off" in predicate:
+                status = "turned off"
             else:
                 status = f"{predicate}"
             pass
@@ -101,27 +104,27 @@ for node_id, node in data.items():
             pass
         elif device == "kitchen sink":
             if "clean" in description:
-                status = "cleaning"
-            elif "wash" in description:
-                status = "washing"
+                status = "in use"
+            elif "wash" in description or "warm" in status:
+                status = "in use"
             else:
                 status = "idle"
             pass
         elif device == "refrigerator":
             if obj != "idle":
-                status = "opened"
+                status = "open"
             else:
                 status = "idle"
             pass
         elif device == "coffee machine":
             if "ready" in description or  "functioning" in description or "brew" in description:
-                status = "brewing"
+                status = "turned on"
             else:
-                status = "turn off"
+                status = "turned off"
             pass
         elif device == "bathroom sink":
             status = f"{obj}"
-            if "Isabella" in status:
+            if "Isabella" in status or "warm" in status:
                 status = "in use"
             pass
         elif device == "bed":
@@ -226,7 +229,69 @@ for i, timestamp in enumerate(sorted_timestamps[1:], start=1):  # Start from ind
 #     previous_time = current_time
 
 # Define the output file name
-output_file = f"smart_home_status_test_{folder}.json"
+#print(final_rows1[:5])
+def create_map_from_csv(csv_file_path):
+    timestamp_map = {}
+
+    with open(csv_file_path, mode='r') as file:
+        csv_reader = csv.DictReader(file)  # Use DictReader for easy access to column names
+        
+        for row in csv_reader:
+            # Combine Date and Time columns for the key
+            timestamp = f"{row['Date']} {row['Time']}"
+            
+            # Add the (Movement_X, Movement_Y) pair to the map
+            x, y = int(row['Movement_X']), int(row['Movement_Y'])
+            timestamp_map[timestamp] = (x, y)
+
+    return timestamp_map
+
+# Example usage
+csv_file_path = f"activity_data_{folder}.csv"  # Replace with the path to your CSV file
+movement_data = create_map_from_csv(csv_file_path)
+# for i, key in enumerate(movement_data.keys()):
+#     if i == 5:  # Stop after 5 keys
+#         break
+#     print(type(key))
+#     print(key , movement_data[key])
+
+
+
+
+
+
+coordinates = {'bed': {(1, 2), (2, 2)}, 'refrigerator': {(1, 7), (2, 7)}, 'closet': {(6, 2), (5, 2)}, 
+                   'shelf': {(8, 2), (7, 2)}, 'shower': {(11, 2), (10, 2)}, 'desk': {(2, 4)}, 'bathroom sink': {(11, 4)},
+                    'cooking area': {(4, 7), (5, 7)}, 'kitchen sink': {(6, 7)}, 
+                    'behind the cafe counter': {(8, 7), (9, 7), (10, 7), (7, 7)},
+                    'furnace': {(3, 8), (3, 9), (3, 10)}, 'cafe customer seating': {(7, 9), (3, 13), (1, 13), (9, 9), (1, 11), (11, 9), (3, 11)}, 
+                    'coffee machine': {(12, 9)}, 'tv': {(6, 13), (7, 13)}, 'piano': {(11, 14), (12, 14)}}
+    
+inverse_coordinates = {}
+for obj, coords in coordinates.items():
+    for coord in coords:
+        inverse_coordinates[coord] = obj
+
+# x = final_rows1[:5]
+# print(x)
+contact_appliances = ('refrigerator', 'piano', 'shower', 'kitchen sink', 'coffee machine' , 'bathroom sink' )
+for i in range(len(final_rows1)):
+    date = final_rows1[i]['timestamp']
+    (x,y) = movement_data[date]
+    
+    if (x,y) in inverse_coordinates:
+        obj = inverse_coordinates[(x,y)]
+        for app in contact_appliances:
+            state = final_rows1[i][app]
+            if state != 'idle':
+                if app == obj:
+                    final_rows1[i][app] = 'in use'
+                else:
+                    final_rows1[i][app] = 'idle'
+        
+
+
+output_file = f"application_usage_{folder}.json"
 
 # Write to JSON
 try:
@@ -236,7 +301,7 @@ try:
 except IOError as e:
     print(f"Error writing to file: {e}")
 
-output_csv_file = f"smart_home_status_test_{folder}.csv"
+output_csv_file = f"application_usage_{folder}.csv"
 
 # Assuming `final_rows` is generated from the previous step
 json_to_csv(final_rows1, output_csv_file)

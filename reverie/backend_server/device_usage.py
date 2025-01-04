@@ -25,13 +25,14 @@ def calculate_device_usage(file_path):
 
     # Multiply count by 10 (assuming each row represents 10 seconds)
     for device in device_usage:
-        device_usage[device] *= 10
+        device_usage[device] *= 10 
+        device_usage[device] //= 60
 
     return device_usage
 # File path to the dataset
-file_path = f"smart_home_status_test_the_room3-1.csv"  # Replace with your actual file path
+file_path = f"application_usage_the_room3-1.csv"  # Replace with your actual file path
 
 # Calculate and print results
 device_usage = calculate_device_usage(file_path)
 for device, usage_time in device_usage.items():
-    print(f"{device}: {usage_time} seconds")
+    print(f"{device}: {usage_time} minutes")
