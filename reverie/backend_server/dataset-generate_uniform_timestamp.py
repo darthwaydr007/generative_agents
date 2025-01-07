@@ -241,8 +241,8 @@ def create_map_from_csv(csv_file_path):
             timestamp = f"{row['Date']} {row['Time']}"
             
             # Add the (Movement_X, Movement_Y) pair to the map
-            x, y , obj = (row['Movement_X']), int(row['Movement_Y'] ,row["Object"] )
-            timestamp_map[timestamp] = (x, y)
+            x, y , obj = int(row['Movement_X']), int(row['Movement_Y']) ,row["Object"] 
+            timestamp_map[timestamp] = (x, y , obj)
 
     return timestamp_map
 
@@ -274,6 +274,7 @@ for obj, coords in coordinates.items():
 
 # x = final_rows1[:5]
 # print(x)
+cnt = 0
 contact_appliances = ('refrigerator', 'piano', 'shower', 'kitchen sink', 'coffee machine' , 'bathroom sink' )
 for i in range(len(final_rows1)):
     date = final_rows1[i]['timestamp']
@@ -283,14 +284,21 @@ for i in range(len(final_rows1)):
         obj = inverse_coordinates[(x,y)]
         for app in contact_appliances:
             state = final_rows1[i][app]
+                
             if state != 'idle':
                 if app == obj and app  == obj_m:
+                    if obj_m == "shower":
+                        print(date, x , y , obj_m , obj , state)
+                        cnt+=1
                     final_rows1[i][app] = 'in use'
                 else:
                     final_rows1[i][app] = 'idle'
+    else:
+        for app in contact_appliances:
+            final_rows1[i][app] = 'idle'
         
 
-
+print('shower count ' , cnt)
 output_file = f"application_usage_{folder}.json"
 
 # Write to JSON

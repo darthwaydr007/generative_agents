@@ -17,8 +17,8 @@ def calculate_device_usage(file_path):
 
         for row in reader:
             states = row[1:]
-            print(devices)
-            print(states)
+            #print(devices)
+            #print(states)
             for device, state in zip(devices, states):
                 if state != "idle" and state != "turn off":
                     device_usage[device] += 1
