@@ -241,7 +241,7 @@ def create_map_from_csv(csv_file_path):
             timestamp = f"{row['Date']} {row['Time']}"
             
             # Add the (Movement_X, Movement_Y) pair to the map
-            x, y = int(row['Movement_X']), int(row['Movement_Y'])
+            x, y , obj = (row['Movement_X']), int(row['Movement_Y'] ,row["Object"] )
             timestamp_map[timestamp] = (x, y)
 
     return timestamp_map
@@ -277,14 +277,14 @@ for obj, coords in coordinates.items():
 contact_appliances = ('refrigerator', 'piano', 'shower', 'kitchen sink', 'coffee machine' , 'bathroom sink' )
 for i in range(len(final_rows1)):
     date = final_rows1[i]['timestamp']
-    (x,y) = movement_data[date]
+    (x,y,obj_m) = movement_data[date]
     
     if (x,y) in inverse_coordinates:
         obj = inverse_coordinates[(x,y)]
         for app in contact_appliances:
             state = final_rows1[i][app]
             if state != 'idle':
-                if app == obj:
+                if app == obj and app  == obj_m:
                     final_rows1[i][app] = 'in use'
                 else:
                     final_rows1[i][app] = 'idle'
