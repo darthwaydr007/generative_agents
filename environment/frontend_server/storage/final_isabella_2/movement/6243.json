@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        8,
+        9
+      ],
+      "pronunciatio": "\ud83d\udd25\u274c",
+      "description": "going to bed at 11:00 pm to get a good night's rest for the next day (turning off the furnace in the cafe) @ the Ville:Hobbs Cafe:cafe:furnace",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 23:20:30"
+  }
+}

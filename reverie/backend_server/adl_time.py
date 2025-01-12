@@ -35,9 +35,9 @@ def save_activity_data_to_csv(activity_data, output_file):
             writer.writerow([activity, data["count"], data["total_time"]])
 
 # File path to the dataset
-file_path = "activity_data_the_room3-1.csv"  # Replace with your actual file path
+file_path = "activity_data_final_isabella_2.csv"  # Replace with your actual file path
 
-output_file = "activity_summary.csv"  # Output file for results
+output_file = "activity_summary_final_isabella_2.csv"  # Output file for results
 
 # Calculate and save results
 activity_data = calculate_activity_data(file_path)

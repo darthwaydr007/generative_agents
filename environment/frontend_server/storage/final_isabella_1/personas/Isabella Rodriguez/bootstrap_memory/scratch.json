@@ -1,0 +1,256 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 00:00:00",
+  "curr_tile": [
+    2,
+    2
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 6:00 AM 2. Head to Hobbs Cafe at 8:00 AM to open and work at the counter until 12:00 PM 3. Check the schedule for the day at 8:50 AM 4. Interact with customers, take orders, and utilize the coffee machine as needed throughout the day 5. Perform dinner preparation tasks such as checking inventory, storing ingredients, and setting the table for dinner",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. She has an active lifestyle and does a lot of activities.",
+  "currently": "Status: Isabella Rodriguez is starting her day early on Tuesday February 14, following her morning routine at 6:00 AM. She will be heading to Hobbs Cafe at 8:00 AM to open the cafe and work at the counter until 12:00 PM. Isabella will also check the schedule for the day at 8:50 AM, ensuring all employees are aware of their shifts. Throughout the day, she plans to interact with customers, take orders, and utilize the coffee machine as needed. Isabella is focused on staying busy and providing excellent service to all cafe patrons. Additionally, she will perform dinner preparation tasks such as checking inventory, storing ingredients, and setting the table for dinner. Isabella is looking forward to another successful day at the cafe on Tuesday February 14.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, waking up around 6am. She sometimes watches TV in the Cafe.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 23,
+  "importance_ele_n": 88,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "go to Hobbs Cafe at 8:00 am and open the cafe",
+    "work at the counter until 12:00 pm",
+    "close the cafe at 8:00 pm",
+    "have dinner and relax at home, possibly watch TV from 9:00 pm to 10:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (stretching and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (changing into her work clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her phone for any urgent messages)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (packing her bag for work)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (putting on her shoes and coat)",
+      5
+    ],
+    [
+      "getting dressed and ready for work",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's work",
+      60
+    ],
+    [
+      "interacting with customers and taking orders",
+      60
+    ],
+    [
+      "utilizing the coffee machine and preparing drinks for customers",
+      60
+    ],
+    [
+      "checking the schedule for the day at 8:50 AM",
+      60
+    ],
+    [
+      "working at the counter and taking orders from customers",
+      60
+    ],
+    [
+      "checking inventory and storing ingredients for dinner preparation",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "preparing for the dinner rush by setting the table and organizing the cafe",
+      60
+    ],
+    [
+      "interacting with customers and taking orders",
+      60
+    ],
+    [
+      "utilizing the coffee machine and preparing drinks for customers",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and preparing to go home for the day",
+      60
+    ],
+    [
+      "preparing for dinner and getting ready to close the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and preparing to go home for the day",
+      60
+    ],
+    [
+      "having dinner and relaxing at home",
+      60
+    ],
+    [
+      "watching TV and winding down for the night",
+      60
+    ],
+    [
+      "getting ready for bed and winding down for the night",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting dressed and ready for work",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day's work",
+      60
+    ],
+    [
+      "interacting with customers and taking orders",
+      60
+    ],
+    [
+      "utilizing the coffee machine and preparing drinks for customers",
+      60
+    ],
+    [
+      "checking the schedule for the day at 8:50 AM",
+      60
+    ],
+    [
+      "working at the counter and taking orders from customers",
+      60
+    ],
+    [
+      "checking inventory and storing ingredients for dinner preparation",
+      60
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "preparing for the dinner rush by setting the table and organizing the cafe",
+      60
+    ],
+    [
+      "interacting with customers and taking orders",
+      60
+    ],
+    [
+      "utilizing the coffee machine and preparing drinks for customers",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and preparing to go home for the day",
+      60
+    ],
+    [
+      "preparing for dinner and getting ready to close the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and preparing to go home for the day",
+      60
+    ],
+    [
+      "having dinner and relaxing at home",
+      60
+    ],
+    [
+      "watching TV and winding down for the night",
+      60
+    ],
+    [
+      "getting ready for bed and winding down for the night",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 00:00:00",
+  "act_duration": 360,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "is being slept on",
+    "null"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

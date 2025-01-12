@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        3,
+        13
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "taking a lunch break and checking inventory for the cafe (placing an order for the items that need to be restocked) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:51:20"
+  }
+}

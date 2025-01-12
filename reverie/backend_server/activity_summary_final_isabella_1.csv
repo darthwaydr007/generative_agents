@@ -1,0 +1,65 @@
+Activity,Count,Total Time (seconds)
+waking up and completing her morning routine,360,3600
+waking up and getting out of bed,30,300
+stretching and doing some light exercises,60,600
+taking a shower and getting dressed,120,1200
+making breakfast,90,900
+eating breakfast,60,600
+unlocking the doors to Hobbs Cafe,30,300
+turning on the lights in the cafe,30,300
+turning on the furnace,30,300
+turning on the TV,30,300
+checking the inventory and restocking any items that are low,60,600
+setting up the counter and making sure everything is clean and organized,60,600
+preparing the coffee machine and other equipment for the day,60,600
+checking the schedule for the day and making any necessary adjustments,60,600
+greeting customers as they enter the cafe,30,300
+taking orders and preparing drinks,120,1200
+chatting with customers and making them feel welcome,600,6000
+restocking supplies and cleaning the counter,60,600
+taking a short break to check on the furnace,90,900
+taking orders from customers,750,7500
+preparing and serving drinks and food,600,6000
+checking on the furnace,180,1800
+refilling supplies for the counter,120,1200
+taking a short break to watch TV in the cafe,150,1500
+preparing and serving drinks,90,900
+taking a break to watch TV,60,600
+checking inventory and restocking supplies,30,300
+preparing drinks and food orders,360,3600
+serving customers their orders,240,2400
+cleaning and restocking the counter,120,1200
+refilling coffee beans in the grinder,30,300
+making drinks for customers,90,900
+checking on the furnace again,60,600
+restocking supplies,120,1200
+refilling coffee beans and other supplies,60,600
+cleaning and wiping down the counter,60,600
+restocking any items that were used during the day,60,600
+counting the cash register and recording the sales for the day,150,1500
+turning off the lights in the cafe,30,300
+locking the doors and setting the alarm,30,300
+turning off the furnace,60,600
+checking the TV to make sure it is turned off,30,300
+gathering her belongings and preparing to leave,30,300
+cleaning and closing the cafe,90,900
+locking up the cafe,30,300
+walking to her car,30,300
+driving home,90,900
+changing into her pajamas,90,900
+closing up the cafe and locking the doors,30,300
+turning off the lights and appliances in the cafe,60,600
+counting the cash register and recording the day's sales,90,900
+checking the inventory and making a list of items to restock,60,600
+setting the alarm for the cafe,30,300
+washing her face and brushing her teeth,60,600
+brushing her teeth,30,300
+washing her face,30,300
+setting her alarm for 6:00 am,30,300
+turning off the lights in her bedroom,30,300
+getting into bed,30,300
+reading a book for 15 minutes,90,900
+turning off the TV in the cafe,30,300
+closing the cafe and locking the doors,30,300
+turning off the furnace in the cafe,30,300
+sleeping,1,10

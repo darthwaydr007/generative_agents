@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        1,
+        13
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "taking a short break to walk around the cafe and greet customers (checking the cleanliness of the cafe and wiping down any tables or counters that need it) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:27:10"
+  }
+}

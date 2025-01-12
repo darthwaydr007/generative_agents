@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        5,
+        7
+      ],
+      "pronunciatio": "\ud83d\udcb5",
+      "description": "closing the cafe and turning off the furnace (counting the cash register and recording the sales for the day) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:25:50"
+  }
+}

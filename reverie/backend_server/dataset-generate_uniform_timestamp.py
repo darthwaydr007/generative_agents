@@ -46,7 +46,9 @@ def generate_timestamps(start, end, gap=10):
 folder = input("Enter the folder name: ").strip()
 
 # Construct the file path
-file_path = f"{fs_storage}/{folder}/personas/Isabella Rodriguez/bootstrap_memory/associative_memory/nodes.json"
+#file_path = f"{fs_storage}/{folder}/personas/Isabella Rodriguez/bootstrap_memory/associative_memory/nodes.json"
+file_path = f"{fs_storage}/{folder}/personas/Maria Lopez/bootstrap_memory/associative_memory/nodes.json"
+
 #ALLOWED_DEVICES = {"bathroom sink", "bed", "cafe customer seating", "closet", "coffee machine", "cooking area", "desk", "furnace", "kitchen sink", "piano", "refrigerator", "shelf", "shower", "toilet", "tv"}
 ALLOWED_DEVICES ={"furnace", "shower", "tv", "piano", "kitchen sink", "refrigerator", "coffee machine", "bathroom sink"}
 # Check if the file exists
@@ -70,14 +72,27 @@ devices = set()
 for node_id, node in data.items():
     try:
         timestamp = node["created"]
-        subject = node["subject"].split(":")[-1]  # Extract device name
-        description = node.get("description", "")
-        predicate = node.get("predicate", "")
-        obj = node.get("object", "")
+        subject = node["subject"].split(":")[-1].lower()  # Extract device name
+        description = node.get("description", "").lower()
+        predicate = node.get("predicate", "").lower()
+        obj = node.get("object", "").lower()
+        device = subject
+        for x in ALLOWED_DEVICES:
+            if x in subject or x in obj:
+                
+                device = x
+                #if device == "tv":
+                    #print(device , node)
+                break
+        # if node["type"] == "event" and ("TV" in str(node) or "tv" in str(node)):
+        #     print(timestamp , node)
+            
         #status = predicate
         ############# DESCRIPTORS FOR STATUS ##############
-        device = subject
+        
+        
         status = f"{description}||{predicate}||{obj}"
+        
         if device == "furnace":
             if "use" in predicate or "provide" in predicate or "on" in predicate:
                 status = "turned on"
@@ -88,12 +103,14 @@ for node_id, node in data.items():
             pass
         elif device == "shower":
             status = f"{obj}"
-            if status != "idle":
+            if status != "idle" or "use" in description:
                 status = "in use"
             pass
-        elif device == "tv":
-            if "display" in predicate or "on" in predicate:
+        elif  device == "tv":
+            #print(timestamp , 'tv' , status)
+            if "display" in predicate or "on" in predicate or "on" in description:
                 status = "turned on"
+                print("HOTTTTTTTT" , timestamp , status)
             elif  "off" in predicate:
                 status = "turned off"
             else:
@@ -105,7 +122,7 @@ for node_id, node in data.items():
         elif device == "kitchen sink":
             if "clean" in description:
                 status = "in use"
-            elif "wash" in description or "warm" in status:
+            elif "wash" in description or "warm" in status or "use" in description:
                 status = "in use"
             else:
                 status = "idle"
@@ -124,7 +141,7 @@ for node_id, node in data.items():
             pass
         elif device == "bathroom sink":
             status = f"{obj}"
-            if "Isabella" in status or "warm" in status:
+            if "Maria" in status or "warm" in status or "use" in description:
                 status = "in use"
             pass
         elif device == "bed":
@@ -133,9 +150,10 @@ for node_id, node in data.items():
         else:
             status = f"{description}||{predicate}||{obj}"
         ###################################################
-        if subject in ALLOWED_DEVICES:  # Filter by allowed devices
-            devices.add(subject)
-            rows.append({"timestamp": timestamp, "device": subject, "status": status})
+        for x in ALLOWED_DEVICES:
+            if x in subject.lower() or x in obj.lower():  # Filter by allowed devices
+                devices.add(x)
+                rows.append({"timestamp": timestamp, "device": x, "status": status})
     except KeyError as e:
         print(f"Missing key in node {node_id}: {e}")
         continue
@@ -168,10 +186,12 @@ for i in range(len(rows)):
     # Ensure timestamp is recorded and initialized with current states if new
     if current_timestamp not in timestamps:
         timestamps[current_timestamp] = device_states.copy()
-
+    if device == "tv":
+        print(current_timestamp , device , status)
     # Update the state of the specific device
     for dev in devices:
         if dev == device:
+            
             if status == "is":
                 timestamps[current_timestamp][dev] = device_states[dev]
             else:
@@ -296,6 +316,27 @@ for i in range(len(final_rows1)):
     else:
         for app in contact_appliances:
             final_rows1[i][app] = 'idle'
+turned_off_appliances = ('tv', 'furnace', 'coffee machine')
+#, 'refrigerator'
+for i in range(len(final_rows1)):
+    if final_rows1[i]['refrigerator'] == 'idle':
+        final_rows1[i]['refrigerator'] = 'closed'
+    for app in turned_off_appliances:
+        if final_rows1[i][app] == 'idle':
+            final_rows1[i][app] = 'turned off'
+        if final_rows1[i][app] =='be adjusted' or final_rows1[i][app] == 'use':
+            final_rows1[i][app] = 'turned on'
+state_set = set()
+for i in range(len(final_rows1)):
+    for app in ALLOWED_DEVICES:
+        state_set.add( final_rows1[i][app])
+print(state_set)
+
+
+        
+
+
+
         
 
 print('shower count ' , cnt)

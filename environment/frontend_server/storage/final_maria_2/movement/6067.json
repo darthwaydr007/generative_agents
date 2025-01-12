@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        5,
+        7
+      ],
+      "pronunciatio": "\ud83d\udcfa\u26d4",
+      "description": "going to bed (turning off the TV) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:51:10"
+  }
+}

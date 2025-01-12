@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        10,
+        4
+      ],
+      "pronunciatio": "\ud83c\udf92",
+      "description": "getting ready to go to Hobbs Cafe (preparing her bag with necessary items for the day) @ the Ville:Maria Lopez's apartment:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:40:10"
+  }
+}

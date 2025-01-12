@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        3,
+        8
+      ],
+      "pronunciatio": "\ud83c\udfea\ud83d\udd25",
+      "description": "working at the counter at Hobbs Cafe (closing the cafe and turning off the furnace) @ the Ville:Hobbs Cafe:cafe:furnace",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:54:30"
+  }
+}

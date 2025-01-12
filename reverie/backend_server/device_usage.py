@@ -20,17 +20,18 @@ def calculate_device_usage(file_path):
             #print(devices)
             #print(states)
             for device, state in zip(devices, states):
-                if state != "idle" and state != "turn off":
+                if state != "idle" and state != "turned off" and state !="closed":
                     device_usage[device] += 1
 
     # Multiply count by 10 (assuming each row represents 10 seconds)
     for device in device_usage:
         device_usage[device] *= 10 
+        #print(device , device_usage[device])
         device_usage[device] //= 60
 
     return device_usage
 # File path to the dataset
-file_path = f"application_usage_the_room3-1.csv"  # Replace with your actual file path
+file_path = "application_usage_final_maria_3.csv"  # Replace with your actual file path
 
 # Calculate and print results
 device_usage = calculate_device_usage(file_path)

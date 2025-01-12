@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        11,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "going to bed at 8:30 pm (checking the security cameras to make sure everything is secure) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 23:31:00"
+  }
+}

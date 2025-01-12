@@ -1,0 +1,16 @@
+{
+  "persona": {
+    "Maria Lopez": {
+      "movement": [
+        2,
+        4
+      ],
+      "pronunciatio": "\ud83d\udd75\ufe0f\u200d",
+      "description": "knitting (checking her progress) @ the Ville:Maria Lopez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:44:00"
+  }
+}
