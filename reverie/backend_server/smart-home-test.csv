@@ -16,3 +16,5 @@ piano,bathroom sink is idle,bed is idle,cafe customer seating is idle,closet is 
 bathroom sink,bathroom sink is idle,bed is idle,cafe customer seating is idle,closet is idle,coffee machine is idle,cooking area is idle,desk is idle,furnace is idle,kitchen sink is idle,piano is idle,refrigerator is idle,shelf is idle,shower is idle,toilet is idle,tv is idle
 toilet,bathroom sink is idle,bed is idle,cafe customer seating is idle,closet is idle,coffee machine is idle,cooking area is idle,desk is idle,furnace is idle,kitchen sink is idle,piano is idle,refrigerator is idle,shelf is idle,shower is idle,toilet is idle,tv is idle
 shower,bathroom sink is idle,bed is idle,cafe customer seating is idle,closet is idle,coffee machine is idle,cooking area is idle,desk is idle,furnace is idle,kitchen sink is idle,piano is idle,refrigerator is idle,shelf is idle,shower is idle,toilet is idle,tv is idle
+
+furnace,shower,tv,piano,kitchen sink,refrigerator,coffee machine,bathroom sink,toilet,bed

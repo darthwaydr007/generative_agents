@@ -16,16 +16,24 @@ def json_to_csv(json_data, output_csv):
         print("No data to write.")
         return
 
-    # Extract fieldnames from keys of the first dictionary
-    fieldnames = list(json_data[0].keys())
+    # Extract fieldnames from keys of the first dictionary, splitting timestamp
+    fieldnames = ["Date", "Time"] + [key for key in json_data[0].keys() if key != "timestamp"]
 
     # Write to CSV
     try:
         with open(output_csv, mode="w", newline="", encoding="utf-8") as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()  # Write the header
-            writer.writerows(json_data)  # Write the rows
-        print(f"CSV file '{output_csv}' created successfully.")
+
+            for row in json_data:
+                # Split the timestamp into Date and Time
+                date, time = row["timestamp"].split(" ")
+                # Exclude the original timestamp and add Date and Time
+                row_data = {"Date": date, "Time": time}
+                row_data.update({key: row[key] for key in row if key != "timestamp"})
+                writer.writerow(row_data)
+
+        print(f"CSV file '{output_csv}' created successfully with Date and Time columns.")
     except IOError as e:
         print(f"Error writing to CSV: {e}")
 

@@ -1,2 +1,76 @@
 Activity,Count,Total Time (seconds)
-waking up and completing her morning routine,1,10
+waking up and completing her morning routine,360,3600
+waking up and getting out of bed,30,300
+stretching and doing some light exercises,60,600
+taking a shower and getting dressed,120,1200
+making breakfast,90,900
+eating breakfast,60,600
+unlocking the cafe door,30,300
+turning on the lights in the cafe,30,300
+turning on the furnace,30,300
+turning on the TV,30,300
+checking the inventory and restocking any items if needed,60,600
+setting up the counter and arranging the pastries and drinks,60,600
+brewing a fresh pot of coffee,30,300
+wiping down the tables and chairs,60,600
+taking a quick break to drink her own cup of coffee,30,300
+greeting customers and taking their orders,60,600
+making coffee and other drinks,120,1200
+serving food and drinks to customers,180,1800
+chatting with customers and making them feel welcome,480,4800
+clearing tables and cleaning up after customers,120,1200
+restocking supplies and ingredients,150,1500
+taking a short break,60,600
+checking inventory and making a shopping list,90,900
+preparing for the next day's menu,180,1800
+washing her hands,30,300
+preparing her lunch,90,900
+setting up a table for herself,30,300
+sitting down to eat her lunch,180,1800
+cleaning up after her lunch,30,300
+checking inventory and restocking supplies,90,900
+preparing drinks and food orders,180,1800
+taking orders from customers,420,4200
+cleaning and organizing the counter area,90,900
+taking a short break to walk around the cafe and greet customers,120,1200
+restocking supplies and cleaning tables,270,2700
+checking the inventory and restocking any items that are running low,60,600
+greeting customers and engaging in small talk,90,900
+checking the cleanliness of the cafe and wiping down any tables or counters that need it,60,600
+checking the temperature and adjusting the thermostat if needed,30,300
+checking the TV and changing the channel if needed,30,300
+taking a short break to sit down and rest,60,600
+checking her phone for any important messages or emails,30,300
+greeting customers as they enter the cafe,30,300
+preparing and serving drinks and food,180,1800
+clearing and cleaning tables,60,600
+cleaning and wiping down the counter,120,1200
+restocking the coffee beans and other supplies,90,900
+counting the cash register and recording the sales for the day,60,600
+turning off the lights and locking the doors,60,600
+checking the furnace and turning it off,60,600
+cleaning and organizing the tables and chairs,90,900
+putting away any leftover food or drinks,60,600
+sweeping and mopping the floors,90,900
+wiping down tables and chairs,60,600
+taking out the trash,30,300
+turning off the lights in the cafe,30,300
+cleaning up the counter and tables,90,900
+washing dishes and putting them away,120,1200
+making herself a cup of coffee,30,300
+sitting down at a table and turning on the TV,90,900
+closing up the cafe and turning off all the lights,30,300
+washing her face and brushing her teeth,120,1200
+changing into her pajamas,60,600
+setting her alarm for the next day,30,300
+checking her phone for any urgent messages or emails,60,600
+reading a book or magazine to relax,90,900
+turning off the TV and any other electronics,30,300
+getting into bed and turning off the lights,30,300
+turning off the TV in the cafe,30,300
+closing the cafe and locking the doors,60,600
+setting the alarm for the cafe,30,300
+turning off the furnace in the cafe,30,300
+checking the cafe's inventory and making a list of items to restock,60,600
+setting her alarm for the next morning,60,600
+sleeping,1,10

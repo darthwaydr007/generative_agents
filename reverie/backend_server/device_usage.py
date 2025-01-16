@@ -31,7 +31,7 @@ def calculate_device_usage(file_path):
 
     return device_usage
 # File path to the dataset
-file_path = "application_usage_final_maria_3.csv"  # Replace with your actual file path
+file_path = "application_usage_final_isabella_2.csv"  # Replace with your actual file path
 
 # Calculate and print results
 device_usage = calculate_device_usage(file_path)

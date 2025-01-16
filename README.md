@@ -110,6 +110,7 @@ python3 dataset-activity.py
 ```
 **Output Files:**
 - activity_data_{simulation}.csv
+
 Location: backend_server folder
 
 ### Step 8: Generating Monitoring Dataset
@@ -121,6 +122,7 @@ python3 dataset-generate_uniform_timestamp.py
 **Output Files:**
 - smart_home_status_{simulation}.csv
 - smart_home_status_{simulation}.json
+
 Location: backend_server folder
 
 Purpose: Log device status at uniform timestamps
@@ -132,6 +134,7 @@ python3 data-analysis.py
 **Output Files:**
 
 - activity_data_analysis_{simulation}.csv
+
 Location: backend_server folder
 
 **Analysis Insights:**

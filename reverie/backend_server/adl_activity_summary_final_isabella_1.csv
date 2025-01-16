@@ -1,0 +1,55 @@
+Activity,Count,Total Time (seconds),Category
+waking up and completing her morning routine,360,3600,Personal care activities
+making coffee,30,300,Household activities
+preparing breakfast,90,900,Household activities
+eating breakfast,120,1200,Eating and drinking
+getting dressed,120,1200,Personal care activities
+unlocking the doors to Hobbs Cafe,30,300,Working and work-related
+turning on the lights in the cafe,30,300,Working and work-related
+turning on the furnace,30,300,Working and work-related
+turning on the TV,30,300,Working and work-related
+checking the inventory and restocking any items that are low,60,600,Working and work-related
+setting up the counter and making sure everything is clean and organized,60,600,Working and work-related
+preparing the coffee machine and other equipment for the day,60,600,Working and work-related
+checking the schedule for the day and making sure all employees are aware of their shifts,60,600,Working and work-related
+greeting customers as they enter the cafe,60,600,Working and work-related
+taking orders and preparing drinks,360,3600,Working and work-related
+chatting with customers and making them feel welcome,360,3600,Working and work-related
+restocking supplies and cleaning the counter area,180,1800,Working and work-related
+taking a break to eat lunch,90,900,Eating and drinking
+checking inventory and making a list of items to restock,180,1800,Working and work-related
+interacting with customers and taking orders,180,1800,Working and work-related
+preparing drinks and food orders,180,1800,Working and work-related
+cleaning and restocking the counter area,180,1800,Working and work-related
+taking a final break before closing the cafe,60,600,Leisure and sports
+closing the cafe for her lunch break,30,300,Eating and drinking
+turning off the furnace,30,300,Working and work-related
+checking the inventory for the cafe,180,1800,Working and work-related
+making a list of items that need to be restocked,60,600,Working and work-related
+placing an order for the items that need to be restocked,60,600,Working and work-related
+restocking supplies and cleaning the counter,120,1200,Working and work-related
+taking a break to eat lunch and check inventory,360,3600,Leisure and sports
+returning to the counter and continuing to interact with customers,210,2100,Working and work-related
+turning off the TV in the cafe,30,300,Working and work-related
+wiping down the counter and tables,90,900,Working and work-related
+washing and putting away dishes,120,1200,Working and work-related
+sweeping and mopping the floors,90,900,Working and work-related
+taking out the trash,30,300,Working and work-related
+preparing ingredients for dinner,90,900,Household activities
+cooking dinner,180,1800,Household activities
+setting the table,30,300,Household activities
+enjoying her dinner,180,1800,Eating and drinking
+cleaning up after dinner,120,1200,Household activities
+changing into comfortable clothes,60,600,Personal care activities
+checking her phone for any urgent messages,90,900,"Telephone calls, mail, and e-mail"
+choosing a show or movie to watch,30,300,Leisure and sports
+getting a snack or drink,30,300,Eating and drinking
+checking her phone for any messages or notifications,30,300,"Telephone calls, mail, and e-mail"
+watching the show or movie,270,2700,Leisure and sports
+closing the cafe and locking the doors,30,300,Working and work-related
+counting the cash register and recording the day's sales,60,600,Working and work-related
+cleaning and restocking the cafe for the next day,120,1200,Working and work-related
+washing her face and brushing her teeth,60,600,Personal care activities
+setting her alarm for the next day,60,600,Personal care activities
+going to bed and turning off the TV before falling asleep,360,3600,Personal care activities
+sleeping,361,3610,Personal care activities

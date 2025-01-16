@@ -1,0 +1,76 @@
+Activity,Count,Total Time (seconds),Category
+waking up and completing her morning routine,360,3600,Personal care activities
+waking up and getting out of bed,30,300,Personal care activities
+stretching and doing some light exercises,60,600,Leisure and sports
+taking a shower and getting dressed,120,1200,Personal care activities
+making breakfast,90,900,Household activities
+eating breakfast,60,600,Eating and drinking
+unlocking the cafe door,30,300,Working and work-related
+turning on the lights in the cafe,30,300,Working and work-related
+turning on the furnace,30,300,Working and work-related
+turning on the TV,30,300,Working and work-related
+checking the inventory and restocking any items if needed,60,600,Working and work-related
+setting up the counter and arranging the pastries and drinks,60,600,Working and work-related
+brewing a fresh pot of coffee,30,300,Household activities
+wiping down the tables and chairs,60,600,Working and work-related
+taking a quick break to drink her own cup of coffee,30,300,Eating and drinking
+greeting customers and taking their orders,60,600,Working and work-related
+making coffee and other drinks,120,1200,Work and work-related
+serving food and drinks to customers,180,1800,Work and work-related
+chatting with customers and making them feel welcome,480,4800,Working and work-related
+clearing tables and cleaning up after customers,120,1200,Work and work-related
+restocking supplies and ingredients,150,1500,Work and work-related
+taking a short break,60,600,Leisure and sports
+checking inventory and making a shopping list,90,900,Work and work-related
+preparing for the next day's menu,180,1800,Household activities
+washing her hands,30,300,Personal care activities
+preparing her lunch,90,900,Household activities
+setting up a table for herself,30,300,Household activities
+sitting down to eat her lunch,180,1800,Household activities
+cleaning up after her lunch,30,300,Household activities
+checking inventory and restocking supplies,90,900,Work and work-related
+preparing drinks and food orders,180,1800,Working and work-related
+taking orders from customers,420,4200,Work and work-related
+cleaning and organizing the counter area,90,900,Work and work-related
+taking a short break to walk around the cafe and greet customers,120,1200,Leisure and sports
+restocking supplies and cleaning tables,270,2700,Working and work-related
+checking the inventory and restocking any items that are running low,60,600,Working and work-related
+greeting customers and engaging in small talk,90,900,Working and work-related
+checking the cleanliness of the cafe and wiping down any tables or counters that need it,60,600,Household activities
+checking the temperature and adjusting the thermostat if needed,30,300,Personal care activities
+checking the TV and changing the channel if needed,30,300,Leisure and sports
+taking a short break to sit down and rest,60,600,Leisure and sports
+checking her phone for any important messages or emails,30,300,"Telephone calls, mail, and e-mail"
+greeting customers as they enter the cafe,30,300,Working and work-related
+preparing and serving drinks and food,180,1800,Working and work-related
+clearing and cleaning tables,60,600,Working and work-related
+cleaning and wiping down the counter,120,1200,Working and work-related
+restocking the coffee beans and other supplies,90,900,Working and work-related
+counting the cash register and recording the sales for the day,60,600,Working and work-related
+turning off the lights and locking the doors,60,600,Working and work-related
+checking the furnace and turning it off,60,600,Personal care activities
+cleaning and organizing the tables and chairs,90,900,Working and work-related
+putting away any leftover food or drinks,60,600,Working and work-related
+sweeping and mopping the floors,90,900,Working and work-related
+wiping down tables and chairs,60,600,Household activities
+taking out the trash,30,300,Working and work-related
+turning off the lights in the cafe,30,300,Working and work-related
+cleaning up the counter and tables,90,900,Working and work-related
+washing dishes and putting them away,120,1200,Personal care activities
+making herself a cup of coffee,30,300,Household activities
+sitting down at a table and turning on the TV,90,900,Leisure and sports
+closing up the cafe and turning off all the lights,30,300,Working and work-related
+washing her face and brushing her teeth,120,1200,Personal care activities
+changing into her pajamas,60,600,Personal care activities
+setting her alarm for the next day,30,300,Personal care activities
+checking her phone for any urgent messages or emails,60,600,"Telephone calls, mail, and e-mail"
+reading a book or magazine to relax,90,900,Leisure and sports
+turning off the TV and any other electronics,30,300,Working and work-related
+getting into bed and turning off the lights,30,300,Working and work-related
+turning off the TV in the cafe,30,300,Working and work-related
+closing the cafe and locking the doors,60,600,Working and work-related
+setting the alarm for the cafe,30,300,Personal care activities
+turning off the furnace in the cafe,30,300,Working and work-related
+checking the cafe's inventory and making a list of items to restock,60,600,Working and work-related
+setting her alarm for the next morning,60,600,Personal care activities
+sleeping,1,10,Personal care activities
